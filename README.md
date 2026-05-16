@@ -136,6 +136,15 @@ While I'm always trying to insure that the information here is as accurate as po
 - Rift Wizard 2 (PC, with [the Words of Power mod](https://github.com/EarthboundPromoter/Words-of-Power)) - fully accessible
 - Dragon Ball Sparking! Zero (PC, with [the Sparking Zero Access mod](https://github.com/AccessForge/SparkingZeroAccess)) - work in progress, under active development (note that this game is accidentally playable without the mod as well)
 - Buckshot Roulette (PC, with [this mod]( https://github.com/Lethal-Lawnmower/BuckshotRoulette-Accessibility-Mod)) - mostly accessible
+- Sid Meier's Civilization V (PC, with [the Civ V Access mod](https://github.com/rashadnaqeeb/Civ-V-Access)) - fully accessible, requires the Brave New World Expansion
+- Zelda 1 (emulated on PC, with [the Zelda1Access mod](https://github.com/gadeuvall2000/zelda1access)) - fully accessible
+- Tangledeep (PC, with [the Tangledeep Access mod](https://github.com/Destranis/tangledeep_access)) - work in progress, under active development
+- Monster Train 2 (PC, with [the MT2 Access mod](https://github.com/amerikrainian/mt2-access)) - work in progress, under active development
+- Yu Gi Oh: Duel Links (PC, with [the Duel Links Access mod](https://github.com/zersiax/DuelLinksAccess)) - work in progress, under active development
+- XMage (PC, with [the XMage Access mod](https://github.com/CatalystForChaos/xmage-access)) - fully accessible
+- Conjury (PC/Android/iOS) - fully accessible
+- Red & Black (PC) - playable, accessibility features can be a bit tedious to use
+- Alt Frequencies (all platforms) - fully accessible
 
 ## Accidentally accessible games
 
