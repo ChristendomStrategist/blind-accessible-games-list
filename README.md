@@ -59,33 +59,33 @@ While I'm always trying to insure that the information here is as accurate as po
 - Final Fantasy IX (PC, with [this fork of the Memoria engine](https://github.com/BlindGuyNW/FF6ScreenReader), download separately available [here](https://www.dropbox.com/scl/fo/020slj7xgabc2m2ynnuw0/AFj01-ZzB67TcSx2wa0mLtA?rlkey=ngodiwk2wdsh8eaieuj0rrxdl&dl=1)) - work in progress, development paused indefinitely
 - Final Fantasy V (PC, with [the FF5 screen reader mod](https://github.com/bladestorm360/FF5-Screen-Reader)) - mostly accessible, fully completable
 - Final Fantasy VI (PC, with [the FF6 Screen Reader mod](https://github.com/BlindGuyNW/FF6ScreenReader)) - mostly accessible, fully completeable
-- Fire Emblem Sacred Stones (PC, with [this mod](https://github.com/StanHash/GBA-Fire-Embem-for-Screen-Readers)) - mostly inaccessible, development status unclear
+- Fire Emblem Sacred Stones (PC, with [this mod](https://github.com/StanHash/GBA-Fire-Embem-for-Screen-Readers)) - partially accessible, development status unclear
 - Firebird (PC) - fully accessible
 - Football Simulator (with [the Football Simulator Access mod](https://github.com/PawsTogetherGaming/FootballSimulatorAccessMod)) - mostly accessible
 - Fortnite (PC, with [the FA11y mod](https://github.com/GreenBeanGravy/FA11y), aim assist available separately [here](https://discord.com/invite/bZa35NZy8Y)) - playable, but a bit tricky to learn. Also requires a good computer because the mod uses machine learning for everything
 - Forza Motorsport (PC/Xbox) - fully accessible, high learning curve, includes audio description
 - Friday Night Funkin (PC, with [this fork](https://forum.audiogames.net/topic/57690/)) - fully accessible
 - Gladiator Manager (PC, with [the Gladiator Manager Access mod](https://github.com/druidah/Gladiator-Manager-Access/)) - work in progress, under active development
-- God of War Ragnarok (PS4/PS5) - half-baked accessibility with many features broken or partially finished (like the screen reader not reading most of the game), but there is a guide, [available here](https://reviews.sightlesskombat.com/RG.shtml) specifically meant to help blind players get around these issues. Also there is audio description, but with many grammatical errors.
+- God of War Ragnarok (PS4/PS5) - partially accessible, half-baked accessibility with many features broken or partially finished (like the screen reader not reading most of the game), but there is a guide, [available here](https://reviews.sightlesskombat.com/RG.shtml) specifically meant to help blind players get around these issues. Also there is audio description, but with many grammatical errors.
 - Hacknet (PC, with [the Hacknet Access mod](https://github.com/zersiax/HacknetAccess)) - work in progress, under active development
 - Hades (PC, with [the Erumi's Blind Accessibility Options modpack](https://hllf.net/hades)) - playable, but a bit tricky at times, uses OCR
 - Hades II. (PC, with [the Hades II Access](https://thunderstore.io/c/hades-ii/p/FlatArther/HadesIIAccess/), [the Blind Accessibility](https://thunderstore.io/c/hades-ii/p/Lirin/Blind_Accessibility/) and [the Tolk Compatibility](https://thunderstore.io/c/hades-ii/p/Lirin/Hades_2_TOLk_Compatibility/) mods) - mostly accessible, with dodging attacks and locating enemies sometimes being a bit tricky. For the Hades II Access mod, more information can be found at [the mod's GitHub](https://github.com/flat-arther/FlatArther-HadesIIAccess-Public) and for the Blind Accessibility and Tolk Compatibility mods, a post by the developer with more information can be found [here](https://forum.audiogames.net/topic/53522/)
-- Hand of Fate (PC, with [this mod](https://github.com/Lirin111/Hand-of-Fate-Accessibility)) - mostly inaccessible, development status unclear
-- Hand of Fate 2 (PC, with [this mod](https://github.com/Lirin111/HandOfFate2-AccessibilityMod/)) - mostly inaccessible, development status unclear
+- Hand of Fate (PC, with [this mod](https://github.com/Lirin111/Hand-of-Fate-Accessibility)) - partially accessible, development status unclear
+- Hand of Fate 2 (PC, with [this mod](https://github.com/Lirin111/HandOfFate2-AccessibilityMod/)) - partially accessible, development status unclear
 - Hearthstone (PC, with [the Hearthstone Access mod](https://hearthstoneaccess.com)) - fully accessible
 - Heaven Studio (PC, with [this mod](https://chikutaku-luyi.itch.io/rhsamod)) - limited information
 - Heroes of Might and Magic 3 (PC, with [the VCMIAccess mod](https://github.com/HappyStarfish/VcmiAccess/)) - work in progress, under active development
 - Kilta (PC) - fully accessible
 - Kingdom Two Crowns (PC, with [this mod](https://github.com/Zaykus/KTC-mod)) - work in progress, under active development
 - Kingdoms and Castles (PC, with [the KC Accessibility mod](https://github.com/chripa85/kc-accessibility/)) - work in progress, under active development
-- Lethal Company (PC, with [the Lethal Access mod](https://thunderstore.io/c/lethal-company/p/GreenBean/LethalAccess)) - mostly inaccessible
+- Lethal Company (PC, with [the Lethal Access mod](https://thunderstore.io/c/lethal-company/p/GreenBean/LethalAccess)) - partially accessible
 - Loco Motive (PC, with [this mod](https://github.com/Lirin111/LocoMotive-Accessibility-Mod), more info available [here](https://forum.audiogames.net/topic/58117/)) - fully accessible
 - Luck be a Landlord (PC) - fully accessible
 - Magic: The Gathering Arena (PC, with [the Accessible Arena mod](https://github.com/JeanStiletto/AccessibleArena/)) - fully accessible
 - Marvel Snap (PC, with [the Snap Access mod](https://github.com/Destranis/snapaccess)) - work in progress, under active development
 - Melatonin (PC, with [the Melatonin Access mod](https://github.com/VIPPotato/melatonin-access)) - fully accessible
 - Microsoft Flight Simulator 2020 (PC) - more info available [here](https://bvipilots.net/)
-- Minecraft: Java Edition (PC, with [the Minecraft Access mod](https://mcaccess.org)) - mostly accessible, requires decent spatial awareness
+- Minecraft: Java Edition (PC, with [the Minecraft Access mod](https://mcaccess.org)) - playable, requires decent spatial awareness
 - Monster Prom (PC, with [this mod](https://github.com/shaysters/MonsterProm-Accessibility-Mod)) - limited information
 - Monster Train (PC, with [this mod](https://github.com/ogomez92/monster_tra11y/)) - work in progress, under active development
 - Monster Train 2 (PC, with [the MT2 Access mod](https://github.com/amerikrainian/mt2-access)) - work in progress, under active development
@@ -136,7 +136,7 @@ While I'm always trying to insure that the information here is as accurate as po
 - The Elder Scrolls V: Skyrim Anniversary Edition (PC, with [the Skyrim Accessibility](https://github.com/DioKyrie-Git/SkyrimAccessibility) and [Skyrim TTS](https://github.com/DioKyrie-Git/SkyrimTTS) mods) - work in progress, under active development
 - The Last of Us part I. (PC/PS5) - fully accessible w/audio description
 - The Last of Us part II. (PC/PS4/PS5) - fully accessible, but the PS5 and PC versions have more features like audio description and higher quality TTS with support for all game languages
-- Who wants to be a millionaire (PC, with [this mod](https://forum.audiogames.net/topic/58369)) - mostly inaccessible
+- Who wants to be a millionaire (PC, with [this mod](https://forum.audiogames.net/topic/58369)) - partially accessible
 - World Empire 2027 and spinoffs (PC/Android/iOS) - fully accessible
 - World of Warcraft (PC, with [the Blind Slash mod](https://www.curseforge.com/wow/addons/blindslash)) - mostly accessible, sighted assistance required in dungeons and end-game content
 - World of Warcraft Classic (PC, with [the SKU mod](https://www.curseforge.com/wow/addons/sku)) - not in active development as seen by the notice in the description. As such, I don't recommend it to new players, but I'm putting it here just to make it clear it exists for now.
