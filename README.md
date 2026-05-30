@@ -125,7 +125,7 @@ While I'm always trying to insure that the information here is as accurate as po
 - Street Fighter 6 (all platforms) - partially accessible gameplay with features like accessibility audio cues, but with no screen reader. Also some parts of the game like the singleplayer campaign aren't really accessible. Works well with OCR
 - Sunless Sea (PC, with [the Sunless Sea Access mod](https://git.alex19ep.me/alex19EP/SunlessSeaAccess)) - mostly accessible, with the combat system not being that user friendly yet
 - Sunlight (PC) - mostly accessible
-- Super Auto Pets (PC, with [the SAP Access mod](https://github.com/GreenBeanGravy/SAPAccess-Release)) - work in progress, under active development
+- Super Auto Pets (PC, with [the SAP Access mod](https://github.com/GreenBeanGravy/SuperAutoAccessibility)) - work in progress, under active development
 - Super Robot Wars Y (PC, with [the SRWY Access mod](https://github.com/stephenso1120-cmyk/SRWY-Accessibility/)) - mostly accessible
 - Tangledeep (PC, with [the Tangledeep Access mod](https://github.com/Destranis/tangledeep_access)) - work in progress, under active development
 - TCG Card Shop Simulator Prologue (PC, with [the TCG Card Shop Simulator Prologue Access mod](https://github.com/RogueEugor/TCG-Card-Shop-Simulator-Prologue-Access)) - mostly accessible
