@@ -21,7 +21,6 @@ While I'm always trying to insure that the information here is as accurate as po
 - A Space for the Unbound (PC, with [this mod](https://github.com/Lirin111/A-Space-For-The-Unbound-accessibility/)) - fully accessible
 - Against the Storm (PC, with [this mod](https://github.com/rashadnaqeeb/ats-accessibility-mod/)) - fully accessible
 - Alt Frequencies (all platforms) - fully accessible
-- Any game made in Ren'Py e.g. Doki Doki Literature Club, Slay the Princess... (PC, sometimes with a mod) - fully accessible
 - As Dusk Falls (PC/PS5/Xbox) - fully accessible w/audio description (the game is also available for PS4, but that version is not accessible)
 - Balatro (PC, with [the Black Hole mod](https://github.com/Aurelius7309/BlackHole)) - fully accessible
 - Bits and Bops (PC) - fully accessible w/audio description
@@ -90,6 +89,9 @@ While I'm always trying to insure that the information here is as accurate as po
 - Monster Train (PC, with [this mod](https://github.com/ogomez92/monster_tra11y/)) - work in progress, under active development
 - Monster Train 2 (PC, with [the MT2 Access mod](https://github.com/amerikrainian/mt2-access)) - work in progress, under active development
 - Mortal Kombat 1 (all platforms) - fully accessible w/audio description
+- Most games made in Ren'Py e.g. Doki Doki Literature Club, Slay the Princess... (PC, sometimes with a mod) - fully accessible
+  - Note that not every Ren'Py game is guaranteed to be accessible
+  - There is [this mod](https://forum.audiogames.net/topic/58348/updated-v81-is-here-accessibility-for-all-renpy-games/) which tries to make every Ren'Py game accessible, but it isn't guaranteed to work
 - Outer Wilds (PC, with [the Outer Wilds Access mod](https://github.com/PlatinumTsuki/OuterWildsAccess/)) - work in progress, under active development
 - Oxygen not Included (PC, with [the ONI Access mod](https://github.com/rashadnaqeeb/OniAccess)) - fully accessible
 - Pastel Parade (PC, with [this mod](https://chikutaku-luyi.itch.io/ppa11y)) - fully accessible
@@ -112,10 +114,13 @@ While I'm always trying to insure that the information here is as accurate as po
 - Sid Meier's Alpha Centauri (PC, with [the SMAC Access mod](https://github.com/HappyStarfish/smac-access)) - work in progress, under active development
 - Sid Meier's Civilization V (PC, with [the Civ V Access mod](https://github.com/rashadnaqeeb/Civ-V-Access)) - fully accessible, requires the Brave New World Expansion
 - Silence (PC, with [the Silence Access mod](https://github.com/Lirin111/Silence---Access)) - work in progress, under active development
+- Six Ages: Ride Like the Wind (PC, with [this mod](https://github.com/HappyStarfish/six-ages-1-accessibility/)) - work in progress, under active development
+- Six Ages 2: Lights Going Out (PC, with [this mod](https://github.com/HappyStarfish/six-ages-2-accessibility/)) - work in progress, under active development
 - Skull Girls (PC) - fully accessible
 - Slay the Spire (PC, with [the Say the Spire mod](https://github.com/bradjrenshaw/say-the-spire)) - fully accessible
 - Slay the Spire 2 (PC, with [the Say the Spire 2 mod](https://github.com/bradjrenshaw/say-the-spire2)) - fully accessible
 - Slots and Daggers (PC, with [this mod](https://forum.audiogames.net/topic/57985)) - fully accessible
+- Songs of Conquest (PC, with [the Songs of Conquest Access mod](https://neurrone.github.io/soc-access/intro.html)) - work in progress, under active development
 - Soulblaze (PC) - fully accessible
 - Spiderman 2 (PC/PS5) - mostly accessible w/audio description (requires brief sighted assistance at certain points in the game, but otherwise fully accessible)
 - Stardew Valley (PC, with [the Stardew Access mod](https://github.com/stardew-access/stardew-access)) - mostly accessible with downsides being related to combat and efficiency when doing some tasks compared to sighted players. Most of that can be fixed with other mods though.
