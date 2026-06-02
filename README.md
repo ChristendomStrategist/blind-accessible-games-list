@@ -82,7 +82,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - Hand of Fate (PC, with [this mod](https://github.com/Lirin111/Hand-of-Fate-Accessibility)) - partially accessible, development status unclear
 - Hand of Fate 2 (PC, with [this mod](https://github.com/Lirin111/HandOfFate2-AccessibilityMod/)) - partially accessible, development status unclear
 - Hearthstone (PC, with [the Hearthstone Access mod](https://hearthstoneaccess.com)) - fully accessible
-- Heaven Studio (PC, with [this mod](https://chikutaku-luyi.itch.io/rhsamod)) - limited information
+- Heaven Studio (PC, with [this mod](https://chikutaku-luyi.itch.io/rhsamod)) - fully accessible, except making remixes
 - Heroes of Might and Magic 3 (PC, with [the VCMIAccess mod](https://github.com/HappyStarfish/VcmiAccess/)) - work in progress, under active development
 - Kilta (PC) - fully accessible
 - Kingdom Two Crowns (PC, with [this mod](https://github.com/Zaykus/KTC-mod)) - work in progress, under active development
