@@ -14,6 +14,15 @@ For updates, questions and discussions about the list and the games on it, you c
 
 While I'm always trying to insure that the information here is as accurate as possible, you should still do your own research before buying anything. If you find something here that is inaccurate, please mention it either on the Discord or by opening an issue on this repo.
 
+## What do some of these descriptions mean?
+Throughout the list you might find some terms like fully accessible, mostly accessible etc. that might not be immediately clear. Here is what they mean in this context:
+- Fully accessible: can be reasonably played and completed (if applicable) without sighted assistance
+- Mostly accessible: The game is mostly playable/completable, but has some rough edges, inefficient parts, or some smaller parts of the game aren't supported
+- Playable: technically playable, but the player should expect major friction
+- Partially accessible: some modes, menus, or core systems are accessible, but important parts of the game are not
+- Work in progress: accessibility is an in-development work in progress, could be unfinished or unstable
+- Unknown/Limited information: not enough information to classify
+
 ## Games
 - 1428: Shadows Over Silesia (PC) - fully accessible w/audio description
 - 2XKO (all platforms) - fully accessible
