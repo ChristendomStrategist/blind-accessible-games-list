@@ -70,6 +70,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - Fire Emblem Sacred Stones (PC, with [this mod](https://github.com/StanHash/GBA-Fire-Embem-for-Screen-Readers)) - partially accessible, development status unclear
 - Firebird (PC) - fully accessible
 - Football Simulator (with [the Football Simulator Access mod](https://github.com/PawsTogetherGaming/FootballSimulatorAccessMod)) - mostly accessible
+- Football Manager 26 (PC, with [the FM26 Access mod](https://github.com/GreenBeanGravy/FM26Access/)) - work in progress, under active development
 - Fortnite (PC, with [the FA11y mod](https://github.com/GreenBeanGravy/FA11y), aim assist available separately [here](https://discord.com/invite/bZa35NZy8Y)) - playable, but a bit tricky to learn. Also requires a good computer because the mod uses machine learning for everything
 - Forza Motorsport (PC/Xbox) - fully accessible, high learning curve, includes audio description
 - Friday Night Funkin (PC, with [this fork](https://forum.audiogames.net/topic/57690/)) - fully accessible
