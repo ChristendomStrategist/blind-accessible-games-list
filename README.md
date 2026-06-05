@@ -148,7 +148,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - The Banner Saga (PC, with [this mod](http://n0n0ce.free.fr/TBS_Access/index.html)) - limited information, seems to be under active development but very slow
 - The Bazaar (PC, with [the Bazaar Access mod](https://github.com/Ali-Bueno/bazaar-access)) - partialy accessible, more info available [here](https://forum.audiogames.net/topic/58335/)
 - The Drifter (PC, with [this mod](https://github.com/Lirin111/the-drifter-accessibility-mod)) - limited information
-- The Elder Scrolls V: Skyrim Anniversary Edition (PC, with [the Skyrim Accessibility](https://github.com/DioKyrie-Git/SkyrimAccessibility) and [Skyrim TTS](https://github.com/DioKyrie-Git/SkyrimTTS) mods) - work in progress, under active development
+- The Elder Scrolls V: Skyrim Anniversary Edition (PC, with [the Skyrim Access mod](https://gitlab.com/SkyrimAccessibilityProject/SkyrimAccessMod)) - work in progress, under active development
 - The Last of Us part I. (PC/PS5) - fully accessible w/audio description
 - The Last of Us part II. (PC/PS4/PS5) - fully accessible, but the PS5 and PC versions have more features like audio description and higher quality TTS with support for all game languages
 - Who wants to be a millionaire (PC, with [this mod](https://forum.audiogames.net/topic/58369)) - partially accessible
