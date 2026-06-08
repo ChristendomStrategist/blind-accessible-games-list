@@ -85,7 +85,6 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - Heaven Studio (PC, with [this mod](https://chikutaku-luyi.itch.io/rhsamod)) - fully accessible, except making remixes
 - Heroes of Might and Magic 3 (PC, with [the VCMIAccess mod](https://github.com/HappyStarfish/VcmiAccess/)) - work in progress, under active development
 - Kilta (PC) - fully accessible
-- Kingdom Two Crowns (PC, with [this mod](https://github.com/Zaykus/KTC-mod)) - work in progress, under active development
 - Kingdoms and Castles (PC, with [the KC Accessibility mod](https://github.com/chripa85/kc-accessibility/)) - work in progress, under active development
 - Lethal Company (PC, with [the Lethal Access mod](https://thunderstore.io/c/lethal-company/p/GreenBean/LethalAccess)) - partially accessible
 - Loco Motive (PC, with [this mod](https://github.com/Lirin111/LocoMotive-Accessibility-Mod), more info available [here](https://forum.audiogames.net/topic/58117/)) - fully accessible
