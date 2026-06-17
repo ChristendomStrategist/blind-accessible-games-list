@@ -186,7 +186,7 @@ These are games that are playable, but without the developers or modders specifi
 - [BitLife](https://apps.apple.com/us/app/bitlife-life-simulator/id1374403536)) - fully accessible
 - [BitLife Dogs](https://apps.apple.com/us/app/bitlife-dogs-doglife/id1589129140)) - fully accessible
 - [Blackbox](https://apps.apple.com/us/app/blackbox/id962969578)) - fully accessible
-- Eldrum (https://eldrum.com/)): all games in the series - fully accessible
+- [Eldrum](https://eldrum.com/)): all games in the series - fully accessible
 - [Galactic Colonies](https://apps.apple.com/us/app/galactic-colonies/id1240422237)) – fully accessible
 - [Godville](https://godvillegame.com/)) - fully accessible
 - [Idle Crafting Kingdom](https://apps.apple.com/us/app/idle-crafting-kingdom/id1190611967)) - fully accessible
