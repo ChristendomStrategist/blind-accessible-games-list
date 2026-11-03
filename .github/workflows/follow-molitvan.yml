@@ -1,0 +1,29 @@
+name: Follow Molitvan's list
+
+# Fork only. Until GitHub Pages is on for Molitvan's repo, the public site is
+# served from this fork's gh-pages branch, so this keeps that branch an exact
+# copy of Molitvan's main. Delete this file once the site has moved.
+on:
+  push:
+    branches: [main]
+    paths: [.github/workflows/follow-molitvan.yml]
+  schedule:
+    - cron: "12 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  follow:
+    # Does nothing if this file ever reaches Molitvan's repo by accident.
+    if: github.repository == 'ChristendomStrategist/blind-accessible-games-list'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Copy Molitvan's main to gh-pages
+        run: |
+          git fetch https://github.com/Molitvan/blind-accessible-games-list.git main
+          git push --force origin FETCH_HEAD:refs/heads/gh-pages
