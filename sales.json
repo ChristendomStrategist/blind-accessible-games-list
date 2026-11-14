@@ -1,5 +1,5 @@
 {
-"checked": "2026-11-13",
+"checked": "2026-11-14",
 "entries": {
 "accidental/final-fantasy-xvi": {
 "percent": 0
@@ -426,7 +426,8 @@
 "price": 19.99
 },
 "games/slots-and-daggers": {
-"percent": 0
+"percent": 30,
+"price": 5.59
 },
 "games/songs-of-conquest": {
 "percent": 0
