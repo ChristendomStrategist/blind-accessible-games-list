@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09",
+ "updated": "2026-11-16",
  "historyStart": "2025-04-03",
  "entries": {
   "accidental/13-sentinels-aegis-rim": {
@@ -18,7 +18,7 @@
     "RPG"
    ],
    "rating": 79,
-   "ratingCount": 23043
+   "ratingCount": 24757
   },
   "accidental/most-fighting-games": {
    "added": "2025-04-03"
@@ -54,8 +54,8 @@
     "Action",
     "Adventure"
    ],
-   "rating": 79,
-   "ratingCount": 54720
+   "rating": 78,
+   "ratingCount": 52728
   },
   "accidental/rhythm-heaven": {
    "added": "2025-06-22"
@@ -91,7 +91,7 @@
     "Indie"
    ],
    "rating": 94,
-   "ratingCount": 73471
+   "ratingCount": 79887
   },
   "games/a-space-for-the-unbound": {
    "added": "2026-01-03",
@@ -114,7 +114,7 @@
     "Strategy"
    ],
    "rating": 95,
-   "ratingCount": 31412
+   "ratingCount": 33693
   },
   "games/alt-frequencies": {
    "added": "2026-05-16"
@@ -152,7 +152,7 @@
     "Strategy"
    ],
    "rating": 98,
-   "ratingCount": 153566
+   "ratingCount": 163144
   },
   "games/battle-brothers": {
    "added": "2026-08-04",
@@ -165,7 +165,7 @@
     "Strategy"
    ],
    "rating": 88,
-   "ratingCount": 24329
+   "ratingCount": 26467
   },
   "games/beacon-pines": {
    "added": "2026-11-02",
@@ -189,7 +189,7 @@
     "Simulation"
    ],
    "rating": 97,
-   "ratingCount": 322278
+   "ratingCount": 399619
   },
   "games/bills-must-be-paid": {
    "added": "2026-11-02",
@@ -241,8 +241,8 @@
     "Casual",
     "Simulation"
    ],
-   "rating": 94,
-   "ratingCount": 190
+   "rating": 92,
+   "ratingCount": 163
   },
   "games/brok-the-investigator": {
    "added": "2025-04-03",
@@ -266,8 +266,8 @@
     "Action",
     "Simulation"
    ],
-   "rating": 96,
-   "ratingCount": 95541
+   "rating": 95,
+   "ratingCount": 112808
   },
   "games/candy-crush-saga": {
    "added": "2026-11-02"
@@ -308,7 +308,7 @@
     "Strategy"
    ],
    "rating": 90,
-   "ratingCount": 61304
+   "ratingCount": 62220
   },
   "games/coffee-talk": {
    "added": "2025-12-29",
@@ -320,7 +320,7 @@
     "Casual"
    ],
    "rating": 95,
-   "ratingCount": 11267
+   "ratingCount": 11388
   },
   "games/conjury": {
    "added": "2026-05-16",
@@ -344,8 +344,8 @@
     "Simulation",
     "Strategy"
    ],
-   "rating": 89,
-   "ratingCount": 2938
+   "rating": 91,
+   "ratingCount": 2138
   },
   "games/cookie-clicker": {
    "added": "2026-01-28",
@@ -357,8 +357,8 @@
     "Simulation",
     "Strategy"
    ],
-   "rating": 97,
-   "ratingCount": 79892
+   "rating": 96,
+   "ratingCount": 89251
   },
   "games/crusader-kings-iii": {
    "added": "2025-04-03",
@@ -371,7 +371,7 @@
     "Strategy"
    ],
    "rating": 90,
-   "ratingCount": 126909
+   "ratingCount": 94235
   },
   "games/cryptmaster": {
    "added": "2026-03-26",
@@ -396,7 +396,7 @@
     "Strategy"
    ],
    "rating": 96,
-   "ratingCount": 103228
+   "ratingCount": 113595
   },
   "games/cyber-punk-2077": {
    "added": "2026-07-30",
@@ -406,8 +406,8 @@
    "genres": [
     "RPG"
    ],
-   "rating": 84,
-   "ratingCount": 844921
+   "rating": 88,
+   "ratingCount": 907700
   },
   "games/darkest-dungeon": {
    "added": "2026-08-25",
@@ -419,7 +419,7 @@
     "Strategy"
    ],
    "rating": 92,
-   "ratingCount": 149456
+   "ratingCount": 141986
   },
   "games/darkest-dungeon-ii": {
    "added": "2026-08-25",
@@ -430,8 +430,8 @@
     "RPG",
     "Strategy"
    ],
-   "rating": 76,
-   "ratingCount": 21539
+   "rating": 75,
+   "ratingCount": 24597
   },
   "games/date-everything": {
    "added": "2026-03-26",
@@ -474,8 +474,8 @@
    "genres": [
     "Action"
    ],
-   "rating": 87,
-   "ratingCount": 36558
+   "rating": 86,
+   "ratingCount": 46678
   },
   "games/diablo": {
    "added": "2026-01-28"
@@ -492,8 +492,8 @@
     "MMO",
     "RPG"
    ],
-   "rating": 66,
-   "ratingCount": 50302
+   "rating": 70,
+   "ratingCount": 62303
   },
   "games/dicey-dungeons": {
    "added": "2026-11-02",
@@ -510,7 +510,7 @@
    "added": "2026-09-25",
    "source": "steam",
    "released": "2025-10-02",
-   "price": 99.99,
+   "price": 69.99,
    "genres": [
     "RPG"
    ]
@@ -539,7 +539,7 @@
     "RPG"
    ],
    "rating": 93,
-   "ratingCount": 111712
+   "ratingCount": 119484
   },
   "games/doki-doki-literature-club-plus": {
    "added": "2025-12-29",
@@ -550,7 +550,7 @@
     "Casual"
    ],
    "rating": 97,
-   "ratingCount": 27539
+   "ratingCount": 30731
   },
   "games/doom-doom-2-heretic-hexon": {
    "added": "2026-03-26",
@@ -560,8 +560,8 @@
    "genres": [
     "Action"
    ],
-   "rating": 96,
-   "ratingCount": 24984
+   "rating": 97,
+   "ratingCount": 25781
   },
   "games/dragon-ball-sparking-zero": {
    "added": "2025-12-11",
@@ -571,8 +571,8 @@
    "genres": [
     "Action"
    ],
-   "rating": 89,
-   "ratingCount": 65180
+   "rating": 87,
+   "ratingCount": 50861
   },
   "games/dragon-ball-z-budokai-tenkaichi-3": {
    "added": "2026-11-02"
@@ -587,7 +587,7 @@
     "RPG"
    ],
    "rating": 93,
-   "ratingCount": 54680
+   "ratingCount": 44235
   },
   "games/dragon-warrior-1": {
    "added": "2026-04-24"
@@ -660,8 +660,8 @@
     "Simulation",
     "Strategy"
    ],
-   "rating": 97,
-   "ratingCount": 215209
+   "rating": 98,
+   "ratingCount": 193873
   },
   "games/fallout-3": {
    "added": "2026-11-02",
@@ -672,7 +672,7 @@
     "RPG"
    ],
    "rating": 81,
-   "ratingCount": 20930
+   "ratingCount": 18108
   },
   "games/fallout-4": {
    "added": "2026-02-26",
@@ -682,8 +682,8 @@
    "genres": [
     "RPG"
    ],
-   "rating": 83,
-   "ratingCount": 392287
+   "rating": 82,
+   "ratingCount": 292321
   },
   "games/fallout-new-vegas": {
    "added": "2026-09-25",
@@ -695,7 +695,7 @@
     "RPG"
    ],
    "rating": 96,
-   "ratingCount": 227700
+   "ratingCount": 213406
   },
   "games/fear-and-hunger": {
    "added": "2026-07-12",
@@ -782,7 +782,7 @@
     "RPG"
    ],
    "rating": 95,
-   "ratingCount": 11892
+   "ratingCount": 12624
   },
   "games/final-fantasy-v": {
    "added": "2026-01-04",
@@ -920,8 +920,8 @@
     "Adventure",
     "RPG"
    ],
-   "rating": 86,
-   "ratingCount": 31388
+   "rating": 90,
+   "ratingCount": 33292
   },
   "games/graveyard-keeper": {
    "added": "2026-08-25",
@@ -934,7 +934,7 @@
     "Simulation"
    ],
    "rating": 86,
-   "ratingCount": 43647
+   "ratingCount": 40384
   },
   "games/graveyard-keeper-2": {
    "added": "2026-11-02",
@@ -957,8 +957,8 @@
     "Adventure",
     "RPG"
    ],
-   "rating": 94,
-   "ratingCount": 99730
+   "rating": 93,
+   "ratingCount": 93786
   },
   "games/guildrun": {
    "added": "2026-09-22",
@@ -978,7 +978,7 @@
     "Simulation"
    ],
    "rating": 94,
-   "ratingCount": 25115
+   "ratingCount": 16983
   },
   "games/hades": {
    "added": "2025-04-03",
@@ -990,7 +990,7 @@
     "RPG"
    ],
    "rating": 98,
-   "ratingCount": 279741
+   "ratingCount": 287988
   },
   "games/hades-ii": {
    "added": "2025-04-03",
@@ -1001,8 +1001,8 @@
     "Action",
     "RPG"
    ],
-   "rating": 95,
-   "ratingCount": 64132
+   "rating": 96,
+   "ratingCount": 115855
   },
   "games/halloween": {
    "added": "2026-11-02"
@@ -1017,7 +1017,7 @@
     "RPG"
    ],
    "rating": 89,
-   "ratingCount": 10559
+   "ratingCount": 8018
   },
   "games/hand-of-fate-2": {
    "added": "2026-01-01",
@@ -1047,8 +1047,8 @@
     "Casual",
     "Simulation"
    ],
-   "rating": 90,
-   "ratingCount": 9732
+   "rating": 89,
+   "ratingCount": 8416
   },
   "games/heroes-of-might-and-magic-3": {
    "added": "2026-02-15"
@@ -1062,7 +1062,7 @@
     "Adventure"
    ],
    "rating": 96,
-   "ratingCount": 5312
+   "ratingCount": 7006
   },
   "games/house-party": {
    "added": "2026-11-02",
@@ -1076,7 +1076,7 @@
     "Simulation"
    ],
    "rating": 86,
-   "ratingCount": 14988
+   "ratingCount": 14000
   },
   "games/infinity-blade-ii": {
    "added": "2026-11-02"
@@ -1091,7 +1091,7 @@
     "Strategy"
    ],
    "rating": 97,
-   "ratingCount": 131890
+   "ratingCount": 136511
   },
   "games/iron-lung": {
    "added": "2026-07-30",
@@ -1142,7 +1142,7 @@
     "Strategy"
    ],
    "rating": 80,
-   "ratingCount": 518
+   "ratingCount": 411
   },
   "games/kingdom-two-crowns": {
    "added": "2026-04-24",
@@ -1166,8 +1166,8 @@
     "Simulation",
     "Strategy"
    ],
-   "rating": 93,
-   "ratingCount": 29715
+   "rating": 94,
+   "ratingCount": 30523
   },
   "games/koikatsu-party": {
    "added": "2026-09-25",
@@ -1188,7 +1188,7 @@
     "Adventure"
    ],
    "rating": 97,
-   "ratingCount": 487160
+   "ratingCount": 412299
   },
   "games/life-is-strange-before-the-storm": {
    "added": "2026-07-30",
@@ -1200,7 +1200,7 @@
     "Adventure"
    ],
    "rating": 93,
-   "ratingCount": 37293
+   "ratingCount": 33541
   },
   "games/loco-motive": {
    "added": "2025-12-29",
@@ -1273,7 +1273,7 @@
     "Simulation"
    ],
    "rating": 79,
-   "ratingCount": 65666
+   "ratingCount": 70569
   },
   "games/minecraft-java-edition": {
    "added": "2025-04-03"
@@ -1287,7 +1287,7 @@
     "Simulation"
    ],
    "rating": 93,
-   "ratingCount": 13998
+   "ratingCount": 12301
   },
   "games/monster-train": {
    "added": "2026-01-28",
@@ -1298,7 +1298,7 @@
     "Strategy"
    ],
    "rating": 96,
-   "ratingCount": 21868
+   "ratingCount": 19997
   },
   "games/monster-train-2": {
    "added": "2026-05-16",
@@ -1330,8 +1330,8 @@
    "genres": [
     "Action"
    ],
-   "rating": 70,
-   "ratingCount": 37125
+   "rating": 75,
+   "ratingCount": 34903
   },
   "games/mortal-kombat-legacy-kollection": {
    "added": "2026-11-02",
@@ -1351,7 +1351,7 @@
     "Casual"
    ],
    "rating": 96,
-   "ratingCount": 210717
+   "ratingCount": 230472
   },
   "games/no-i-m-not-a-human": {
    "added": "2026-06-17",
@@ -1374,8 +1374,8 @@
     "Action",
     "Adventure"
    ],
-   "rating": 96,
-   "ratingCount": 84488
+   "rating": 95,
+   "ratingCount": 91480
   },
   "games/oxygen-not-included": {
    "added": "2026-03-26",
@@ -1386,7 +1386,7 @@
     "Simulation"
    ],
    "rating": 97,
-   "ratingCount": 128390
+   "ratingCount": 136409
   },
   "games/paralives": {
    "added": "2026-09-22",
@@ -1416,7 +1416,7 @@
     "RPG"
    ],
    "rating": 97,
-   "ratingCount": 78346
+   "ratingCount": 71962
   },
   "games/phoenix-wright-ace-attorney-trilogy": {
    "added": "2025-12-29",
@@ -1427,7 +1427,7 @@
     "Adventure"
    ],
    "rating": 98,
-   "ratingCount": 37254
+   "ratingCount": 36169
   },
   "games/plague-inc-evolved": {
    "added": "2026-06-17",
@@ -1440,7 +1440,7 @@
     "Strategy"
    ],
    "rating": 94,
-   "ratingCount": 55664
+   "ratingCount": 60030
   },
   "games/plants-vs-zombies": {
    "added": "2025-04-03",
@@ -1451,7 +1451,7 @@
     "Strategy"
    ],
    "rating": 98,
-   "ratingCount": 139925
+   "ratingCount": 144963
   },
   "games/pokemon-3ds-games": {
    "added": "2026-11-02"
@@ -1496,7 +1496,7 @@
     "Simulation"
    ],
    "rating": 94,
-   "ratingCount": 377063
+   "ratingCount": 374373
   },
   "games/red-black": {
    "added": "2026-05-16",
@@ -1548,7 +1548,7 @@
     "Strategy"
    ],
    "rating": 98,
-   "ratingCount": 21213
+   "ratingCount": 25256
   },
   "games/rhythm-heaven-fever": {
    "added": "2026-09-26"
@@ -1588,7 +1588,7 @@
     "Strategy"
    ],
    "rating": 98,
-   "ratingCount": 210517
+   "ratingCount": 211763
   },
   "games/roller-coaster-tycoon-2": {
    "added": "2026-07-12",
@@ -1600,7 +1600,7 @@
     "Strategy"
    ],
    "rating": 89,
-   "ratingCount": 5445
+   "ratingCount": 5080
   },
   "games/sally-face": {
    "added": "2026-11-02",
@@ -1611,7 +1611,7 @@
     "Adventure"
    ],
    "rating": 97,
-   "ratingCount": 22561
+   "ratingCount": 28431
   },
   "games/sequence-storm": {
    "added": "2025-07-05",
@@ -1633,8 +1633,8 @@
    "genres": [
     "Action"
    ],
-   "rating": 90,
-   "ratingCount": 3757
+   "rating": 91,
+   "ratingCount": 3048
   },
   "games/sid-meier-s-alpha-centauri": {
    "added": "2026-03-26"
@@ -1647,8 +1647,8 @@
    "genres": [
     "Strategy"
    ],
-   "rating": 96,
-   "ratingCount": 204265
+   "rating": 95,
+   "ratingCount": 128522
   },
   "games/sid-meier-s-civilization-vi": {
    "added": "2026-08-04",
@@ -1658,8 +1658,8 @@
    "genres": [
     "Strategy"
    ],
-   "rating": 87,
-   "ratingCount": 349920
+   "rating": 86,
+   "ratingCount": 277744
   },
   "games/silence": {
    "added": "2026-03-26",
@@ -1669,8 +1669,8 @@
    "genres": [
     "Adventure"
    ],
-   "rating": 84,
-   "ratingCount": 2603
+   "rating": 83,
+   "ratingCount": 1854
   },
   "games/six-ages-2-lights-going-out": {
    "added": "2026-06-02",
@@ -1705,8 +1705,8 @@
    "genres": [
     "Action"
    ],
-   "rating": 73,
-   "ratingCount": 40853
+   "rating": 89,
+   "ratingCount": 23202
   },
   "games/slay-the-spire": {
    "added": "2025-04-03",
@@ -1716,8 +1716,8 @@
    "genres": [
     "Strategy"
    ],
-   "rating": 98,
-   "ratingCount": 182277
+   "rating": 97,
+   "ratingCount": 193501
   },
   "games/slay-the-spire-2": {
    "added": "2026-03-09",
@@ -1749,7 +1749,7 @@
     "Strategy"
    ],
    "rating": 86,
-   "ratingCount": 11676
+   "ratingCount": 12231
   },
   "games/soulblaze": {
    "added": "2025-06-22",
@@ -1769,8 +1769,8 @@
    "genres": [
     "Simulation"
    ],
-   "rating": 92,
-   "ratingCount": 4992
+   "rating": 95,
+   "ratingCount": 2635
   },
   "games/spiderman-2": {
    "added": "2025-04-03",
@@ -1781,8 +1781,8 @@
     "Action",
     "Adventure"
    ],
-   "rating": 76,
-   "ratingCount": 19012
+   "rating": 84,
+   "ratingCount": 35310
   },
   "games/stacklands": {
    "added": "2026-11-02",
@@ -1816,7 +1816,7 @@
     "RPG"
    ],
    "rating": 91,
-   "ratingCount": 31738
+   "ratingCount": 28708
   },
   "games/stardew-valley": {
    "added": "2025-04-03",
@@ -1827,8 +1827,8 @@
     "RPG",
     "Simulation"
    ],
-   "rating": 98,
-   "ratingCount": 886195
+   "rating": 99,
+   "ratingCount": 905162
   },
   "games/sticky-business": {
    "added": "2026-11-02",
@@ -1876,8 +1876,8 @@
     "Action",
     "Adventure"
    ],
-   "rating": 85,
-   "ratingCount": 56666
+   "rating": 81,
+   "ratingCount": 51669
   },
   "games/street-fighter-v": {
    "added": "2026-11-02",
@@ -1898,8 +1898,8 @@
     "Adventure",
     "RPG"
    ],
-   "rating": 83,
-   "ratingCount": 9288
+   "rating": 84,
+   "ratingCount": 7650
   },
   "games/sunlight": {
    "added": "2026-04-01",
@@ -1965,8 +1965,8 @@
     "Adventure",
     "RPG"
    ],
-   "rating": 97,
-   "ratingCount": 1409473
+   "rating": 98,
+   "ratingCount": 1251034
   },
   "games/the-banner-saga": {
    "added": "2026-03-26",
@@ -1978,13 +1978,13 @@
     "Strategy"
    ],
    "rating": 89,
-   "ratingCount": 15523
+   "ratingCount": 13503
   },
   "games/the-bazaar": {
    "added": "2026-01-28",
    "source": "steam",
    "released": "2025-08-13",
-   "price": 19.99,
+   "price": 0,
    "genres": [
     "Strategy"
    ]
@@ -2007,7 +2007,7 @@
     "RPG"
    ],
    "rating": 95,
-   "ratingCount": 26384
+   "ratingCount": 22497
   },
   "games/the-elder-scrolls-v-skyrim-anniversary-edition": {
    "added": "2026-04-24",
@@ -2017,8 +2017,8 @@
    "genres": [
     "RPG"
    ],
-   "rating": 92,
-   "ratingCount": 337058
+   "rating": 94,
+   "ratingCount": 224205
   },
   "games/the-last-of-us-part-i": {
    "added": "2025-04-03",
@@ -2029,8 +2029,8 @@
     "Action",
     "Adventure"
    ],
-   "rating": 80,
-   "ratingCount": 79855
+   "rating": 86,
+   "ratingCount": 67833
   },
   "games/the-last-of-us-part-ii": {
    "added": "2025-04-03",
@@ -2042,7 +2042,7 @@
     "Adventure"
    ],
    "rating": 91,
-   "ratingCount": 24774
+   "ratingCount": 36772
   },
   "games/the-life-and-suffering-of-prince-jerian": {
    "added": "2026-09-22",
@@ -2075,8 +2075,8 @@
    "genres": [
     "Adventure"
    ],
-   "rating": 82,
-   "ratingCount": 19265
+   "rating": 83,
+   "ratingCount": 16853
   },
   "games/torment-hexus": {
    "added": "2026-08-25",
@@ -2095,8 +2095,8 @@
    "genres": [
     "Action"
    ],
-   "rating": 90,
-   "ratingCount": 15709
+   "rating": 92,
+   "ratingCount": 11205
   },
   "games/undertale": {
    "added": "2026-07-30",
@@ -2107,7 +2107,7 @@
     "RPG"
    ],
    "rating": 97,
-   "ratingCount": 272932
+   "ratingCount": 313861
   },
   "games/unfair-flips": {
    "added": "2026-09-22",
@@ -2147,8 +2147,8 @@
     "RPG",
     "Strategy"
    ],
-   "rating": 86,
-   "ratingCount": 30805
+   "rating": 88,
+   "ratingCount": 34745
   },
   "games/wasteland-2": {
    "added": "2026-08-04",
@@ -2161,7 +2161,7 @@
     "Strategy"
    ],
    "rating": 82,
-   "ratingCount": 8054
+   "ratingCount": 4665
   },
   "games/welcome-to-the-dark-place": {
    "added": "2026-07-30",
@@ -2213,7 +2213,7 @@
     "Simulation"
    ],
    "rating": 95,
-   "ratingCount": 44062
+   "ratingCount": 52183
   },
   "games/xcom-enemy-unknown-and-enemy-within": {
    "added": "2026-11-02",
@@ -2224,7 +2224,7 @@
     "Strategy"
    ],
    "rating": 93,
-   "ratingCount": 56414
+   "ratingCount": 40512
   },
   "games/xcom2": {
    "added": "2026-09-22",
@@ -2235,7 +2235,7 @@
     "Strategy"
    ],
    "rating": 85,
-   "ratingCount": 101701
+   "ratingCount": 80592
   },
   "games/xmage": {
    "added": "2026-05-16"
@@ -2249,7 +2249,7 @@
     "Strategy"
    ],
    "rating": 83,
-   "ratingCount": 43630
+   "ratingCount": 45129
   },
   "games/yu-gi-oh-legacy-of-the-duelist-link-evolution": {
    "added": "2026-11-02",
@@ -2283,7 +2283,7 @@
     "Strategy"
    ],
    "rating": 68,
-   "ratingCount": 438
+   "ratingCount": 315
   },
   "games/zelda-1": {
    "added": "2026-05-16"
@@ -2298,7 +2298,7 @@
     "RPG"
    ],
    "rating": 95,
-   "ratingCount": 2682
+   "ratingCount": 2680
   },
   "ios/a-few-minutes-of-glory": {
    "added": "2026-04-02",
@@ -2338,7 +2338,7 @@
     "Adventure"
    ],
    "rating": 88,
-   "ratingCount": 26866
+   "ratingCount": 26889
   },
   "ios/akari-glow-light-up-puzzles": {
    "added": "2026-08-03",
@@ -2368,7 +2368,7 @@
     "Puzzle"
    ],
    "rating": 98,
-   "ratingCount": 5786
+   "ratingCount": 5804
   },
   "ios/art-of-flora": {
    "added": "2026-04-02",
@@ -2380,7 +2380,7 @@
     "Casual"
    ],
    "rating": 97,
-   "ratingCount": 1299
+   "ratingCount": 1332
   },
   "ios/baby-adopter-and-spinoffs": {
    "added": "2026-02-24",
@@ -2391,8 +2391,8 @@
     "Simulation",
     "RPG"
    ],
-   "rating": 87,
-   "ratingCount": 1982
+   "rating": 88,
+   "ratingCount": 1984
   },
   "ios/battlecry": {
    "added": "2026-02-24",
@@ -2404,7 +2404,7 @@
     "Strategy"
    ],
    "rating": 87,
-   "ratingCount": 1371
+   "ratingCount": 1372
   },
   "ios/beyond-the-chiron-gate": {
    "added": "2026-06-17",
@@ -2428,7 +2428,7 @@
     "Simulation"
    ],
    "rating": 95,
-   "ratingCount": 1798564
+   "ratingCount": 1799413
   },
   "ios/bitlife-dogs": {
    "added": "2026-02-24",
@@ -2440,7 +2440,7 @@
     "Simulation"
    ],
    "rating": 93,
-   "ratingCount": 62759
+   "ratingCount": 62765
   },
   "ios/blackbox": {
    "added": "2026-02-24",
@@ -2452,7 +2452,7 @@
     "Trivia"
    ],
    "rating": 96,
-   "ratingCount": 109691
+   "ratingCount": 109823
   },
   "ios/cat-genome-kitten-distribution-system": {
    "added": "2026-11-02",
@@ -2515,7 +2515,7 @@
     "Adventure"
    ],
    "rating": 94,
-   "ratingCount": 1807
+   "ratingCount": 1810
   },
   "ios/guess-the-rule-logic-puzzles": {
    "added": "2026-08-03",
@@ -2550,7 +2550,7 @@
     "Adventure"
    ],
    "rating": 96,
-   "ratingCount": 2559
+   "ratingCount": 2565
   },
   "ios/invisible-dragons": {
    "added": "2026-04-02",
@@ -2579,7 +2579,7 @@
   "ios/land-of-livia": {
    "added": "2026-04-02",
    "source": "apple",
-   "price": 0.0,
+   "price": 12.99,
    "released": "2016-09-06",
    "genres": [
     "RPG",
@@ -2634,7 +2634,7 @@
     "RPG"
    ],
    "rating": 100,
-   "ratingCount": 1
+   "ratingCount": 4
   },
   "ios/oath-ash": {
    "added": "2026-11-02",
@@ -2646,7 +2646,7 @@
     "Strategy"
    ],
    "rating": 95,
-   "ratingCount": 45
+   "ratingCount": 47
   },
   "ios/outbrick-block-sort-puzzle": {
    "added": "2026-11-02",
@@ -2658,7 +2658,7 @@
     "Puzzle"
    ],
    "rating": 99,
-   "ratingCount": 21
+   "ratingCount": 22
   },
   "ios/package-hero": {
    "added": "2026-08-03",
@@ -2670,7 +2670,7 @@
     "Simulation"
    ],
    "rating": 91,
-   "ratingCount": 502
+   "ratingCount": 511
   },
   "ios/path-of-adventure": {
    "added": "2026-08-03",
@@ -2693,8 +2693,8 @@
     "Adventure",
     "RPG"
    ],
-   "rating": 100,
-   "ratingCount": 8
+   "rating": 92,
+   "ratingCount": 29
   },
   "ios/pet-jima-cozy-pixel-creature-collection": {
    "added": "2026-08-03",
@@ -2711,7 +2711,7 @@
   "ios/pixel-bowling": {
    "added": "2026-08-03",
    "source": "apple",
-   "price": 1.99,
+   "price": 0.99,
    "released": "2026-03-10",
    "genres": [
     "Sports",
@@ -2743,7 +2743,7 @@
     "RPG"
    ],
    "rating": 97,
-   "ratingCount": 47
+   "ratingCount": 48
   },
   "ios/quiz-king-duel": {
    "added": "2026-11-02",
@@ -2754,7 +2754,7 @@
     "Trivia"
    ],
    "rating": 93,
-   "ratingCount": 14
+   "ratingCount": 17
   },
   "ios/race-to-nowhere": {
    "added": "2026-08-03",
@@ -2776,8 +2776,8 @@
    "genres": [
     "Puzzle"
    ],
-   "rating": 100,
-   "ratingCount": 2
+   "rating": 95,
+   "ratingCount": 4
   },
   "ios/restaurant-rush-cook-serve": {
    "added": "2026-11-02",
@@ -2789,7 +2789,7 @@
     "Simulation"
    ],
    "rating": 95,
-   "ratingCount": 87
+   "ratingCount": 93
   },
   "ios/seedship": {
    "added": "2026-04-02",
