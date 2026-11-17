@@ -1,5 +1,5 @@
 {
-"checked": "2026-11-15",
+"checked": "2026-11-17",
 "entries": {
 "accidental/final-fantasy-xvi": {
 "percent": 0
@@ -14,7 +14,8 @@
 "percent": 0
 },
 "games/1428-shadows-over-silesia": {
-"percent": 0
+"percent": 85,
+"price": 2.99
 },
 "games/a-dance-of-fire-and-ice": {
 "percent": 0
@@ -208,8 +209,7 @@
 "percent": 0
 },
 "games/flamecraft": {
-"percent": 20,
-"price": 15.99
+"percent": 0
 },
 "games/football-manager-26": {
 "percent": 0
@@ -230,8 +230,7 @@
 "percent": 0
 },
 "games/graveyard-keeper": {
-"percent": 75,
-"price": 4.99
+"percent": 0
 },
 "games/graveyard-keeper-2": {
 "percent": 0
@@ -298,8 +297,7 @@
 "percent": 0
 },
 "games/loco-motive": {
-"percent": 40,
-"price": 10.79
+"percent": 0
 },
 "games/luck-be-a-landlord": {
 "percent": 0
@@ -350,7 +348,8 @@
 "percent": 0
 },
 "games/persona-4-golden": {
-"percent": 0
+"percent": 50,
+"price": 9.99
 },
 "games/phoenix-wright-ace-attorney-trilogy": {
 "percent": 0
