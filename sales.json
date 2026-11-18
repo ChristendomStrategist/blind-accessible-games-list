@@ -1,11 +1,12 @@
 {
-"checked": "2026-11-17",
+"checked": "2026-11-18",
 "entries": {
 "accidental/final-fantasy-xvi": {
 "percent": 0
 },
 "accidental/ninja-gaiden-3": {
-"percent": 0
+"percent": 50,
+"price": 19.99
 },
 "accidental/ninja-gaiden-4": {
 "percent": 0
