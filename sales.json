@@ -1,8 +1,9 @@
 {
-"checked": "2026-11-18",
+"checked": "2026-11-19",
 "entries": {
 "accidental/final-fantasy-xvi": {
-"percent": 0
+"percent": 60,
+"price": 19.99
 },
 "accidental/ninja-gaiden-3": {
 "percent": 50,
@@ -84,7 +85,8 @@
 "percent": 0
 },
 "games/cook-serve-delicious-2": {
-"percent": 0
+"percent": 75,
+"price": 3.74
 },
 "games/cookie-clicker": {
 "percent": 0
@@ -180,31 +182,40 @@
 "percent": 0
 },
 "games/final-fantasy": {
-"percent": 0
+"percent": 40,
+"price": 7.19
 },
 "games/final-fantasy-i-vi-pixel-remaster": {
-"percent": 0
+"percent": 40,
+"price": 7.19
 },
 "games/final-fantasy-ii": {
-"percent": 0
+"percent": 40,
+"price": 7.19
 },
 "games/final-fantasy-iii": {
-"percent": 0
+"percent": 40,
+"price": 10.79
 },
 "games/final-fantasy-iv": {
-"percent": 0
+"percent": 40,
+"price": 10.79
 },
 "games/final-fantasy-ix": {
-"percent": 0
+"percent": 70,
+"price": 6.29
 },
 "games/final-fantasy-v": {
-"percent": 0
+"percent": 40,
+"price": 10.79
 },
 "games/final-fantasy-vi": {
-"percent": 0
+"percent": 40,
+"price": 10.79
 },
 "games/final-fantasy-xii-the-zodiac-age": {
-"percent": 0
+"percent": 70,
+"price": 14.99
 },
 "games/firebird": {
 "percent": 0
@@ -237,7 +248,8 @@
 "percent": 0
 },
 "games/grim-dawn": {
-"percent": 0
+"percent": 80,
+"price": 4.99
 },
 "games/guildrun": {
 "percent": 0
@@ -356,8 +368,7 @@
 "percent": 0
 },
 "games/plague-inc-evolved": {
-"percent": 80,
-"price": 2.99
+"percent": 0
 },
 "games/plants-vs-zombies": {
 "percent": 0
@@ -444,7 +455,8 @@
 "percent": 0
 },
 "games/star-ocean-the-second-story-r": {
-"percent": 0
+"percent": 50,
+"price": 24.99
 },
 "games/star-wars-knights-of-the-old-republic": {
 "percent": 0
