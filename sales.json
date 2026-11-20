@@ -1,5 +1,5 @@
 {
-"checked": "2026-11-19",
+"checked": "2026-11-20",
 "entries": {
 "accidental/final-fantasy-xvi": {
 "percent": 60,
@@ -92,7 +92,8 @@
 "percent": 0
 },
 "games/crusader-kings-iii": {
-"percent": 0
+"percent": 70,
+"price": 14.99
 },
 "games/cryptmaster": {
 "percent": 0
@@ -131,7 +132,8 @@
 "percent": 0
 },
 "games/digimon-world-next-order": {
-"percent": 0
+"percent": 84,
+"price": 9.59
 },
 "games/disco-elysium": {
 "percent": 0
@@ -161,7 +163,8 @@
 "percent": 0
 },
 "games/f1-25": {
-"percent": 0
+"percent": 40,
+"price": 29.99
 },
 "games/factorio": {
 "percent": 0
@@ -239,7 +242,8 @@
 "percent": 0
 },
 "games/god-of-war-ragnarok": {
-"percent": 0
+"percent": 33,
+"price": 40.19
 },
 "games/graveyard-keeper": {
 "percent": 0
@@ -352,7 +356,8 @@
 "percent": 0
 },
 "games/oxygen-not-included": {
-"percent": 0
+"percent": 70,
+"price": 7.49
 },
 "games/paralives": {
 "percent": 0
@@ -410,11 +415,11 @@
 "percent": 0
 },
 "games/sid-meier-s-civilization-v": {
-"percent": 75,
-"price": 7.49
+"percent": 0
 },
 "games/sid-meier-s-civilization-vi": {
-"percent": 0
+"percent": 90,
+"price": 5.99
 },
 "games/silence": {
 "percent": 0
@@ -449,7 +454,8 @@
 "percent": 0
 },
 "games/spiderman-2": {
-"percent": 0
+"percent": 33,
+"price": 40.19
 },
 "games/stacklands": {
 "percent": 0
@@ -489,7 +495,8 @@
 "percent": 0
 },
 "games/super-robot-wars-y": {
-"percent": 0
+"percent": 40,
+"price": 56.99
 },
 "games/tangledeep": {
 "percent": 0
@@ -513,10 +520,12 @@
 "percent": 0
 },
 "games/the-last-of-us-part-i": {
-"percent": 0
+"percent": 50,
+"price": 29.99
 },
 "games/the-last-of-us-part-ii": {
-"percent": 0
+"percent": 33,
+"price": 33.49
 },
 "games/the-life-and-suffering-of-prince-jerian": {
 "percent": 0
