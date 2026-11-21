@@ -104,6 +104,17 @@
    "rating": 97,
    "ratingCount": 6215
   },
+  "games/ace-attorney-investigations-collection": {
+   "added": "2026-11-21",
+   "source": "steam",
+   "released": "2024-09-05",
+   "price": 39.99,
+   "genres": [
+    "Adventure"
+   ],
+   "rating": 97,
+   "ratingCount": 3077
+  },
   "games/against-the-storm": {
    "added": "2026-02-15",
    "source": "steam",
@@ -398,6 +409,18 @@
    "rating": 96,
    "ratingCount": 113595
   },
+  "games/cultist-simulator": {
+   "added": "2026-11-21",
+   "source": "steam",
+   "released": "2018-05-31",
+   "price": 19.99,
+   "genres": [
+    "RPG",
+    "Simulation"
+   ],
+   "rating": 82,
+   "ratingCount": 10638
+  },
   "games/cyber-punk-2077": {
    "added": "2026-07-30",
    "source": "steam",
@@ -479,6 +502,17 @@
   },
   "games/diablo": {
    "added": "2026-01-28"
+  },
+  "games/diablo-ii-resurrected": {
+   "added": "2026-11-21",
+   "source": "steam",
+   "released": "2026-02-11",
+   "price": 39.99,
+   "genres": [
+    "Action",
+    "RPG",
+    "Strategy"
+   ]
   },
   "games/diablo-iv": {
    "added": "2025-04-03",
@@ -573,6 +607,9 @@
    ],
    "rating": 87,
    "ratingCount": 50861
+  },
+  "games/dragon-ball-z-budokai-and-budokai-3": {
+   "added": "2026-11-21"
   },
   "games/dragon-ball-z-budokai-tenkaichi-3": {
    "added": "2026-11-02"
@@ -784,6 +821,17 @@
    "rating": 95,
    "ratingCount": 12624
   },
+  "games/final-fantasy-resonance": {
+   "added": "2026-11-21",
+   "source": "steam",
+   "released": "2026-10-22",
+   "price": 49.99,
+   "genres": [
+    "RPG"
+   ],
+   "rating": 96,
+   "ratingCount": 6386
+  },
   "games/final-fantasy-v": {
    "added": "2026-01-04",
    "source": "steam",
@@ -842,6 +890,15 @@
    "genres": [
     "Casual",
     "Strategy"
+   ]
+  },
+  "games/folklore-fishing-demo": {
+   "added": "2026-11-21",
+   "source": "steam",
+   "released": "2026-06-14",
+   "price": 0,
+   "genres": [
+    "Casual"
    ]
   },
   "games/football-manager-26": {
@@ -1081,6 +1138,17 @@
   "games/infinity-blade-ii": {
    "added": "2026-11-02"
   },
+  "games/injustice-2": {
+   "added": "2026-11-21",
+   "source": "steam",
+   "released": "2017-11-30",
+   "price": 49.99,
+   "genres": [
+    "Action"
+   ],
+   "rating": 86,
+   "ratingCount": 17608
+  },
   "games/inscryption": {
    "added": "2026-11-02",
    "source": "steam",
@@ -1225,6 +1293,18 @@
    "rating": 93,
    "ratingCount": 10630
   },
+  "games/lust-theory-season-1": {
+   "added": "2026-11-21",
+   "source": "steam",
+   "released": "2022-03-18",
+   "price": 17.99,
+   "genres": [
+    "Adventure",
+    "Casual",
+    "RPG",
+    "Simulation"
+   ]
+  },
   "games/magic-the-gathering-arena": {
    "added": "2026-02-26",
    "source": "steam",
@@ -1252,6 +1332,17 @@
     "Casual",
     "Strategy"
    ]
+  },
+  "games/marvel-vs-capcom-infinite": {
+   "added": "2026-11-21",
+   "source": "steam",
+   "released": "2017-09-19",
+   "price": 39.99,
+   "genres": [
+    "Action"
+   ],
+   "rating": 68,
+   "ratingCount": 2460
   },
   "games/melatonin": {
    "added": "2026-02-15",
@@ -1333,6 +1424,17 @@
    "rating": 75,
    "ratingCount": 34903
   },
+  "games/mortal-kombat-11": {
+   "added": "2026-11-21",
+   "source": "steam",
+   "released": "2019-04-23",
+   "price": 49.99,
+   "genres": [
+    "Action"
+   ],
+   "rating": 89,
+   "ratingCount": 87596
+  },
   "games/mortal-kombat-legacy-kollection": {
    "added": "2026-11-02",
    "source": "steam",
@@ -1407,6 +1509,19 @@
     "Casual"
    ]
   },
+  "games/persona-3-reload": {
+   "added": "2026-11-21",
+   "source": "steam",
+   "released": "2024-02-01",
+   "price": 59.99,
+   "genres": [
+    "Adventure",
+    "RPG",
+    "Strategy"
+   ],
+   "rating": 95,
+   "ratingCount": 46219
+  },
   "games/persona-4-golden": {
    "added": "2026-07-12",
    "source": "steam",
@@ -1428,6 +1543,9 @@
    ],
    "rating": 98,
    "ratingCount": 36169
+  },
+  "games/pirates-lore": {
+   "added": "2026-11-21"
   },
   "games/plague-inc-evolved": {
    "added": "2026-06-17",
@@ -1452,6 +1570,17 @@
    ],
    "rating": 98,
    "ratingCount": 144963
+  },
+  "games/please-be-happy": {
+   "added": "2026-11-21",
+   "source": "steam",
+   "released": "2022-11-21",
+   "price": 19.99,
+   "genres": [
+    "Casual"
+   ],
+   "rating": 99,
+   "ratingCount": 325
   },
   "games/pokemon-3ds-games": {
    "added": "2026-11-02"
@@ -1522,6 +1651,18 @@
    ],
    "rating": 87,
    "ratingCount": 7919
+  },
+  "games/resident-evil-hd-remaster": {
+   "added": "2026-11-21",
+   "source": "steam",
+   "released": "2015-01-19",
+   "price": 19.99,
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "rating": 92,
+   "ratingCount": 28291
   },
   "games/retroarchemulator-accessibility-project": {
    "added": "2026-09-25"
@@ -1613,6 +1754,19 @@
    "rating": 97,
    "ratingCount": 28431
   },
+  "games/scam-with-your-friends": {
+   "added": "2026-11-21",
+   "source": "steam",
+   "released": "2026-10-15",
+   "price": 9.99,
+   "genres": [
+    "Action",
+    "Casual",
+    "Simulation"
+   ],
+   "rating": 77,
+   "ratingCount": 5117
+  },
   "games/sequence-storm": {
    "added": "2025-07-05",
    "source": "steam",
@@ -1671,6 +1825,16 @@
    ],
    "rating": 83,
    "ratingCount": 1854
+  },
+  "games/silent-hill-f": {
+   "added": "2026-11-21",
+   "source": "steam",
+   "released": "2025-09-24",
+   "price": 69.99,
+   "genres": [
+    "Action",
+    "Adventure"
+   ]
   },
   "games/six-ages-2-lights-going-out": {
    "added": "2026-06-02",
@@ -1955,6 +2119,17 @@
   "games/tekken-3": {
    "added": "2026-11-02"
   },
+  "games/tekken-8": {
+   "added": "2026-11-21",
+   "source": "steam",
+   "released": "2024-01-25",
+   "price": 49.99,
+   "genres": [
+    "Action"
+   ],
+   "rating": 57,
+   "ratingCount": 46880
+  },
   "games/terraria": {
    "added": "2025-11-02",
    "source": "steam",
@@ -1967,6 +2142,9 @@
    ],
    "rating": 98,
    "ratingCount": 1251034
+  },
+  "games/tetris": {
+   "added": "2026-11-21"
   },
   "games/the-banner-saga": {
    "added": "2026-03-26",
@@ -2067,6 +2245,19 @@
    "rating": 90,
    "ratingCount": 8619
   },
+  "games/the-lord-of-the-rings-adventure-card-game-definitive-edition": {
+   "added": "2026-11-21",
+   "source": "steam",
+   "released": "2019-08-29",
+   "price": 19.99,
+   "genres": [
+    "Adventure",
+    "RPG",
+    "Strategy"
+   ],
+   "rating": 76,
+   "ratingCount": 1210
+  },
   "games/the-quarry": {
    "added": "2026-09-22",
    "source": "steam",
@@ -2077,6 +2268,28 @@
    ],
    "rating": 83,
    "ratingCount": 16853
+  },
+  "games/the-walking-dead-the-telltale-definitive-series": {
+   "added": "2026-11-21",
+   "source": "steam",
+   "released": "2020-10-29",
+   "price": 49.99,
+   "genres": [
+    "Adventure"
+   ],
+   "rating": 96,
+   "ratingCount": 38591
+  },
+  "games/the-witcher-3-wild-hunt": {
+   "added": "2026-11-21",
+   "source": "steam",
+   "released": "2015-05-18",
+   "price": 49.99,
+   "genres": [
+    "RPG"
+   ],
+   "rating": 96,
+   "ratingCount": 843958
   },
   "games/torment-hexus": {
    "added": "2026-08-25",
@@ -2121,6 +2334,17 @@
   "games/universal-paperclips": {
    "added": "2026-09-22"
   },
+  "games/until-dawn": {
+   "added": "2026-11-21",
+   "source": "steam",
+   "released": "2024-10-04",
+   "price": 59.99,
+   "genres": [
+    "Adventure"
+   ],
+   "rating": 80,
+   "ratingCount": 2870
+  },
   "games/vaudeville": {
    "added": "2026-11-02",
    "source": "steam",
@@ -2135,6 +2359,18 @@
   },
   "games/verdant": {
    "added": "2026-11-02"
+  },
+  "games/voice-of-cards-the-isle-dragon-roars": {
+   "added": "2026-11-21",
+   "source": "steam",
+   "released": "2021-10-28",
+   "price": 29.99,
+   "genres": [
+    "RPG",
+    "Strategy"
+   ],
+   "rating": 80,
+   "ratingCount": 1348
   },
   "games/warhammer-40000-rogue-trader": {
    "added": "2026-09-22",
@@ -2182,6 +2418,17 @@
    ],
    "rating": 51,
    "ratingCount": 547
+  },
+  "games/wingspan": {
+   "added": "2026-11-21",
+   "source": "steam",
+   "released": "2020-09-17",
+   "price": 19.99,
+   "genres": [
+    "Strategy"
+   ],
+   "rating": 94,
+   "ratingCount": 10317
   },
   "games/world-empire-2027-and-spinoffs": {
    "added": "2026-03-26",
