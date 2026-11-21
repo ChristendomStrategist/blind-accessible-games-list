@@ -121,6 +121,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Gears of War: E-Day](https://store.steampowered.com/app/3010850/Gears_of_War_EDay/), PC/Xbox) - limited information
 - [Gladiator Manager](https://store.steampowered.com/app/1251970/Gladiator_Manager/), PC, with [the Gladiator Manager Access mod](https://github.com/druidah/Gladiator-Manager-Access/)) - mostly accessible, a bit clunky
 - [God of War Ragnarok](https://store.steampowered.com/app/2322010/God_of_War_Ragnark/), PS4/PS5) - partially accessible, half-baked accessibility with many features broken or partially finished (like the screen reader not reading most of the game), but there is a guide, [available here](https://reviews.sightlesskombat.com/RG.shtml) specifically meant to help blind players get around these issues. Also there is audio description, but with many grammatical errors.
+- [Grand Theft Auto V Legacy](https://store.steampowered.com/app/271590/Grand_Theft_Auto_V_Legacy/), PC, with [the GTA Access mod](https://madnessinnsmouth.com/gta-access/)) - work in progress
 - [Graveyard Keeper](https://store.steampowered.com/app/599140/Graveyard_Keeper/), PC, with [this mod](https://github.com/svenja001/graveyard-keeper-accessibility-mod)) - work in progress, under active development
 - [Graveyard Keeper 2](https://store.steampowered.com/app/4358690/Graveyard_Keeper_2/), PC, with [the Graveyard Keeper II Access mod](https://github.com/Svenja001/Graveyard-Keeper-II-Access)) - work in progress
 - [Grim Dawn](https://store.steampowered.com/app/219990/Grim_Dawn/), PC, with [the Grim Dark mod](https://github.com/ahicks92/grimdark)) - work in progress, under active development
@@ -135,7 +136,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Heaven Studio](https://rheavenstudio.github.io/), PC, with [this mod](https://chikutaku-luyi.itch.io/rhsamod)) - fully accessible, except making remixes
 - [Her Story](https://store.steampowered.com/app/368370/Her_Story/), PC, with [the Hear Her Story mod](https://github.com/ObjectInSpace/hear-her-story)) - mostly accessible
 - [Heroes of Might and Magic 3](https://www.gog.com/en/game/heroes_of_might_and_magic_3_complete_edition), PC, with [the VCMIAccess mod](https://github.com/HappyStarfish/VcmiAccess/)) - work in progress, under active development
-- [Higurashi When They Cry Hou](https://store.steampowered.com/app/310360/Higurashi_When_They_Cry_Hou_Ch1_Onikakushi/), PC, with [the Moukakushi mod](https://on1xn.github.io/arozv/higurashi/moukakushi/)) - fully accessible
+- [Higurashi When They Cry Hou](https://store.steampowered.com/app/310360/Higurashi_When_They_Cry_Hou_Ch1_Onikakushi/), PC, with [the Moukakushi mod](https://setzaryix.github.io/arozv/higurashi/moukakushi/)) - fully accessible
 - [House Party](https://store.steampowered.com/app/611790/House_Party/), PC, with [the House Access mod](https://github.com/swarup-developer/house-access)) - work in progress
 - [Infinity Blade II](https://archive.org/details/infinity-blade-ii-pc), PC (fan-preserved port of the mobile game), with [the IB2 Access mod](https://forum.audiogames.net/topic/60684/)) - fully accessible
 - [Injustice 2](https://store.steampowered.com/app/627270/Injustice_2/), PC, with [the Injustice 2 Accessibility mod](https://www.gigasoundproject.com/mods/)) - work in progress
@@ -147,7 +148,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [King of Dragon Pass,](https://store.steampowered.com/app/352220/King_of_Dragon_Pass/) PC, with the [Access Dragon Pass mod,](https://arctic-labs.com/access-dragon-pass) - work in progress, but already mostly accessible
 - [Kingdom Two Crowns](https://store.steampowered.com/app/701160/Kingdom_Two_Crowns/), PC, with [the Kingdom Access mod](https://github.com/kaminosekai54/kingdom-access)) - work in progress
 - [Kingdoms and Castles](https://store.steampowered.com/app/569480/Kingdoms_and_Castles/), PC, with [the KC Accessibility mod](https://github.com/chripa85/kc-accessibility/)) - work in progress, under active development
-- [Koikatsu Party](https://store.steampowered.com/agecheck/app/1073440/) PC, with the [BlindLusion mod,](https://on1xn.github.io/arozv/koikatsu/BlindLusion/) - fully accessible
+- [Koikatsu Party](https://store.steampowered.com/agecheck/app/1073440/) PC, with the [BlindLusion mod,](https://setzaryix.github.io/arozv/koikatsu/BlindLusion/) - fully accessible
 - [Lethal Company](https://store.steampowered.com/app/1966720/Lethal_Company/), PC, with [the Lethal Access mod](https://thunderstore.io/c/lethal-company/p/GreenBean/LethalAccess)) - partially accessible
 - [Life is Strange: Before the Storm](https://store.steampowered.com/agecheck/app/554620/), PC, with [the Before the Storm Access mod](https://github.com/ObjectInSpace/BeforeTheStormAccess)) - fully accessible
 - [Loco Motive](https://store.steampowered.com/app/1709880/Loco_Motive/), PC, with [this mod](https://github.com/Lirin111/LocoMotive-Accessibility-Mod), more info available [here](https://forum.audiogames.net/topic/58117/)) - fully accessible
@@ -202,6 +203,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
   - with [the Pokemon Access mod](https://github.com/nuive/pokemon-access) - mostly accessible
   - with [this expanded version of Pokemon Access](https://patessoft.pl/pokemon-access.zip) - work in progress
 - [Pokemon: Generation 5](https://bulbapedia.bulbagarden.net/wiki/Generation_V) PC, with [this project](https://accessibilitymods.com/mods/pkmnbw/) - work in progress, under active development
+- [Pokemon: Red, Blue, Yellow, Gold, Silver, Crystal, FireRed, LeafGreen, Ruby, Sapphire and Emerald](https://www.pokemon.com/us/pokemon-video-games), PC/Android/iOS, through [the Pokemon Gen 1 Recompilation Project](https://github.com/bryanthaboi/gen1recomp), with [the Pocket Accessibility mod](https://github.com/Lethal-Lawnmower/pocket-accessibility)) - work in progress
 - [PokerStars](https://www.pokerstars.com/), PC, with [the PokerStars for NVDA add-on](https://forum.audiogames.net/topic/60784/)) - work in progress
 - [Project PC,](https://grumpycrouton.itch.io/projectpc) PC, - work in progress, under active development
 - [Project Zomboid](https://store.steampowered.com/app/108600/Project_Zomboid/), PC, with [the Zomboid Access mod](https://github.com/liliancoghlan1-tech/zomboid-access)) - work in progress
