@@ -1,5 +1,5 @@
 {
-"checked": "2026-11-20",
+"checked": "2026-11-21",
 "entries": {
 "accidental/final-fantasy-xvi": {
 "percent": 60,
@@ -10,7 +10,8 @@
 "price": 19.99
 },
 "accidental/ninja-gaiden-4": {
-"percent": 0
+"percent": 50,
+"price": 34.99
 },
 "accidental/resident-evil-6": {
 "percent": 0
@@ -29,11 +30,11 @@
 "percent": 0
 },
 "games/as-dusk-falls": {
-"percent": 0
+"percent": 75,
+"price": 7.49
 },
 "games/bad-dream-coma": {
-"percent": 75,
-"price": 2.24
+"percent": 0
 },
 "games/balatro": {
 "percent": 0
@@ -54,7 +55,8 @@
 "percent": 0
 },
 "games/blippo-plus": {
-"percent": 0
+"percent": 40,
+"price": 8.99
 },
 "games/bop-it-the-videogame": {
 "percent": 0
@@ -70,7 +72,8 @@
 "percent": 0
 },
 "games/chicken-police": {
-"percent": 0
+"percent": 75,
+"price": 4.99
 },
 "games/citizen-sleeper": {
 "percent": 0
@@ -139,7 +142,8 @@
 "percent": 0
 },
 "games/doki-doki-literature-club-plus": {
-"percent": 0
+"percent": 30,
+"price": 10.49
 },
 "games/doom-doom-2-heretic-hexon": {
 "percent": 0
@@ -233,10 +237,12 @@
 "percent": 0
 },
 "games/forza-motorsport": {
-"percent": 0
+"percent": 60,
+"price": 27.99
 },
 "games/gears-of-war-e-day": {
-"percent": 0
+"percent": 30,
+"price": 48.99
 },
 "games/gladiator-manager": {
 "percent": 0
@@ -329,7 +335,8 @@
 "percent": 0
 },
 "games/microsoft-flight-simulator-2020": {
-"percent": 0
+"percent": 65,
+"price": 20.99
 },
 "games/monster-prom": {
 "percent": 0
@@ -540,7 +547,8 @@
 "percent": 0
 },
 "games/ultra-street-fighter-iv": {
-"percent": 0
+"percent": 87,
+"price": 3.89
 },
 "games/undertale": {
 "percent": 0
@@ -556,7 +564,8 @@
 "percent": 0
 },
 "games/wasteland-2": {
-"percent": 0
+"percent": 75,
+"price": 7.49
 },
 "games/welcome-to-the-dark-place": {
 "percent": 0
