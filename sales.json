@@ -26,8 +26,12 @@
 "games/a-space-for-the-unbound": {
 "percent": 0
 },
-"games/against-the-storm": {
+"games/ace-attorney-investigations-collection": {
 "percent": 0
+},
+"games/against-the-storm": {
+"percent": 80,
+"price": 5.99
 },
 "games/as-dusk-falls": {
 "percent": 75,
@@ -40,7 +44,8 @@
 "percent": 0
 },
 "games/battle-brothers": {
-"percent": 0
+"percent": 70,
+"price": 8.99
 },
 "games/beacon-pines": {
 "percent": 0
@@ -104,6 +109,9 @@
 "games/cult-of-the-lamb": {
 "percent": 0
 },
+"games/cultist-simulator": {
+"percent": 0
+},
 "games/cyber-punk-2077": {
 "percent": 0
 },
@@ -123,6 +131,9 @@
 "percent": 0
 },
 "games/deep-rock-galactic-survivor": {
+"percent": 0
+},
+"games/diablo-ii-resurrected": {
 "percent": 0
 },
 "games/diablo-iv": {
@@ -212,6 +223,9 @@
 "percent": 70,
 "price": 6.29
 },
+"games/final-fantasy-resonance": {
+"percent": 0
+},
 "games/final-fantasy-v": {
 "percent": 40,
 "price": 10.79
@@ -228,6 +242,9 @@
 "percent": 0
 },
 "games/flamecraft": {
+"percent": 0
+},
+"games/folklore-fishing-demo": {
 "percent": 0
 },
 "games/football-manager-26": {
@@ -250,6 +267,9 @@
 "games/god-of-war-ragnarok": {
 "percent": 33,
 "price": 40.19
+},
+"games/grand-theft-auto-v-legacy": {
+"percent": 0
 },
 "games/graveyard-keeper": {
 "percent": 0
@@ -288,6 +308,9 @@
 "games/house-party": {
 "percent": 0
 },
+"games/injustice-2": {
+"percent": 0
+},
 "games/inscryption": {
 "percent": 0
 },
@@ -301,8 +324,7 @@
 "percent": 0
 },
 "games/king-of-dragon-pass": {
-"percent": 85,
-"price": 1.79
+"percent": 0
 },
 "games/kingdom-two-crowns": {
 "percent": 0
@@ -325,11 +347,18 @@
 "games/luck-be-a-landlord": {
 "percent": 0
 },
+"games/lust-theory-season-1": {
+"percent": 0
+},
 "games/magic-the-gathering-arena": {
 "percent": 0
 },
 "games/marvel-snap": {
 "percent": 0
+},
+"games/marvel-vs-capcom-infinite": {
+"percent": 80,
+"price": 7.99
 },
 "games/melatonin": {
 "percent": 0
@@ -353,6 +382,9 @@
 "games/mortal-kombat-1": {
 "percent": 0
 },
+"games/mortal-kombat-11": {
+"percent": 0
+},
 "games/mortal-kombat-legacy-kollection": {
 "percent": 0
 },
@@ -360,7 +392,8 @@
 "percent": 0
 },
 "games/outer-wilds": {
-"percent": 0
+"percent": 50,
+"price": 12.49
 },
 "games/oxygen-not-included": {
 "percent": 70,
@@ -371,6 +404,10 @@
 },
 "games/pastel-parade": {
 "percent": 0
+},
+"games/persona-3-reload": {
+"percent": 65,
+"price": 20.99
 },
 "games/persona-4-golden": {
 "percent": 50,
@@ -385,6 +422,9 @@
 "games/plants-vs-zombies": {
 "percent": 0
 },
+"games/please-be-happy": {
+"percent": 0
+},
 "games/project-zomboid": {
 "percent": 0
 },
@@ -392,6 +432,9 @@
 "percent": 0
 },
 "games/reigns": {
+"percent": 0
+},
+"games/resident-evil-hd-remaster": {
 "percent": 0
 },
 "games/rhythm-animal-cafe": {
@@ -415,6 +458,9 @@
 "games/sally-face": {
 "percent": 0
 },
+"games/scam-with-your-friends": {
+"percent": 0
+},
 "games/sequence-storm": {
 "percent": 0
 },
@@ -429,6 +475,9 @@
 "price": 5.99
 },
 "games/silence": {
+"percent": 0
+},
+"games/silent-hill-f": {
 "percent": 0
 },
 "games/six-ages-2-lights-going-out": {
@@ -465,7 +514,8 @@
 "price": 40.19
 },
 "games/stacklands": {
-"percent": 0
+"percent": 50,
+"price": 3.99
 },
 "games/star-ocean-the-second-story-r": {
 "percent": 50,
@@ -511,6 +561,10 @@
 "games/tcg-card-shop-simulator-prologue": {
 "percent": 0
 },
+"games/tekken-8": {
+"percent": 45,
+"price": 27.49
+},
 "games/terraria": {
 "percent": 0
 },
@@ -540,7 +594,16 @@
 "games/the-life-and-suffering-of-sir-brante": {
 "percent": 0
 },
+"games/the-lord-of-the-rings-adventure-card-game-definitive-edition": {
+"percent": 0
+},
 "games/the-quarry": {
+"percent": 0
+},
+"games/the-walking-dead-the-telltale-definitive-series": {
+"percent": 0
+},
+"games/the-witcher-3-wild-hunt": {
 "percent": 0
 },
 "games/torment-hexus": {
@@ -557,8 +620,16 @@
 "percent": 50,
 "price": 0.99
 },
+"games/until-dawn": {
+"percent": 50,
+"price": 29.99
+},
 "games/vaudeville": {
 "percent": 0
+},
+"games/voice-of-cards-the-isle-dragon-roars": {
+"percent": 60,
+"price": 11.99
 },
 "games/warhammer-40000-rogue-trader": {
 "percent": 0
@@ -571,6 +642,9 @@
 "percent": 0
 },
 "games/who-wants-to-be-a-millionaire": {
+"percent": 0
+},
+"games/wingspan": {
 "percent": 0
 },
 "games/world-empire-2027-and-spinoffs": {
