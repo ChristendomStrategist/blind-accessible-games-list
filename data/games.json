@@ -980,6 +980,17 @@
    "rating": 90,
    "ratingCount": 33292
   },
+  "games/grand-theft-auto-v-legacy": {
+   "added": "2026-11-21",
+   "source": "steam",
+   "released": "2015-04-13",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "rating": 87,
+   "ratingCount": 1990556
+  },
   "games/graveyard-keeper": {
    "added": "2026-08-25",
    "source": "steam",
@@ -1596,6 +1607,9 @@
   },
   "games/pokemon-reborn": {
    "added": "2025-04-03"
+  },
+  "games/pokemon-red-blue-yellow-gold-silver-crystal-firered-leafgreen-ruby-sapphire-and-emerald": {
+   "added": "2026-02-23"
   },
   "games/pokemon-rejuvenation": {
    "added": "2025-12-11"
