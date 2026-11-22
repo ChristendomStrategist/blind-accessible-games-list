@@ -1,5 +1,5 @@
 {
-"checked": "2026-11-21",
+"checked": "2026-11-22",
 "entries": {
 "accidental/final-fantasy-xvi": {
 "percent": 60,
@@ -81,7 +81,8 @@
 "price": 4.99
 },
 "games/citizen-sleeper": {
-"percent": 0
+"percent": 70,
+"price": 5.99
 },
 "games/clicker-heroes": {
 "percent": 0
@@ -116,10 +117,12 @@
 "percent": 0
 },
 "games/darkest-dungeon": {
-"percent": 0
+"percent": 85,
+"price": 3.74
 },
 "games/darkest-dungeon-ii": {
-"percent": 0
+"percent": 69,
+"price": 12.39
 },
 "games/date-everything": {
 "percent": 0
@@ -285,7 +288,8 @@
 "percent": 0
 },
 "games/hacknet": {
-"percent": 0
+"percent": 85,
+"price": 1.49
 },
 "games/hades": {
 "percent": 0
@@ -528,7 +532,8 @@
 "percent": 0
 },
 "games/sticky-business": {
-"percent": 0
+"percent": 50,
+"price": 4.99
 },
 "games/stories-of-blossom": {
 "percent": 0
