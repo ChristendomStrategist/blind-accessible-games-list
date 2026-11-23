@@ -2807,6 +2807,18 @@
    "rating": 84,
    "ratingCount": 96
   },
+  "ios/corner-grocer-market-sim": {
+   "added": "2026-11-23",
+   "source": "apple",
+   "price": 0.0,
+   "released": "2026-11-06",
+   "genres": [
+    "Simulation",
+    "Strategy"
+   ],
+   "rating": 97,
+   "ratingCount": 29
+  },
   "ios/eldrum": {
    "added": "2026-02-24"
   },
