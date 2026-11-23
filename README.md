@@ -82,6 +82,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
   - Budokai, with [the Budokai 1 Access mod](https://github.com/BlindChallengerX/BudokaiAccess/releases/latest) - work in progress
 - [Dragon Ball Z: Budokai Tenkaichi 3](https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Budokai_Tenkaichi_3), PC, with [the Tenkaichi3Decomp native PC port](https://github.com/z3xox/Tenkaichi3Decomp), which has built-in screen reader support) - work in progress
 - [Dragon Ball Z Kakarot](https://store.steampowered.com/app/851850/DRAGON_BALL_Z_KAKAROT/), PC, with [the DBZ Kakarot Access mod](https://github.com/Ali-Bueno/dbz-kakarot-access)) - work in progress, under active development
+- [Dragon Quest IX: Sentinels of the Starry Skies](https://en.wikipedia.org/wiki/Dragon_Quest_IX), PC, through [the DQIX Enhanced PC port](https://github.com/sackchief/dqix-enhanced), with [the Dragon Quest 9 Access mod](https://github.com/RetroSanity/Dragon-quest-9-access)) - work in progress
 - [Dragon Warrior 1](https://en.wikipedia.org/wiki/Dragon_Quest_(video_game)), emulated on PC, with [the Dragon Warrior Access mod](https://github.com/GADeuvall2000/DragonWarriorAccess)) - work in progress, under active development
 - [Dressmaker](https://store.steampowered.com/app/4019220/Dressmaker/), with [the Dressmaker Access mod](https://github.com/liliancoghlan1-tech/dressmaker-access)) - work in progress, under active development
 - [Dungeons & Dynasties](https://bretticus82.itch.io/dungeons-dynasties), browser/PC) - mostly accessible
@@ -171,17 +172,21 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Moonlight Peaks](https://store.steampowered.com/app/2209900/Moonlight_Peaks/), PC, with [the Moonlight Access mod](https://www.nexusmods.com/moonlightpeaks/mods/137)) - work in progress, under active development
 - [Mortal Kombat 1](https://store.steampowered.com/app/1971870/Mortal_Kombat_1/), all platforms) - fully accessible w/audio description
 - [Mortal Kombat 11](https://store.steampowered.com/app/976310/Mortal_Kombat_11/), PC, with [the MK11 Accessibility mod](https://www.gigasoundproject.com/mods/)) - work in progress
+- [Mortal Kombat Komplete Edition](https://en.wikipedia.org/wiki/Mortal_Kombat_(2011_video_game)), PC, through [the MK9 by Lauta PC port](https://github.com/machinebreak/mk9-lauta), with [the MK9 Access mod](https://github.com/BlindChallengerX/MK9Access/releases/latest)) - mostly accessible
 - [Mortal Kombat: Legacy Kollection](https://store.steampowered.com/app/3454980/Mortal_Kombat_Legacy_Kollection/), PC, with [the MK Legacy Kollection Access mod](https://github.com/Zatoichi420/mk-legacy-kollection-accessibility-mod)) - work in progress
 - Most games made in Ren'Py e.g. [Doki Doki Literature Club](https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/), [Slay the Princess](https://store.steampowered.com/app/1989270/Slay_the_Princess/)... (PC, sometimes with a mod) - fully accessible
   - Note that not every Ren'Py game is guaranteed to be accessible
   - There is [this mod](https://forum.audiogames.net/topic/58348/updated-v81-is-here-accessibility-for-all-renpy-games/) which tries to make every Ren'Py game accessible, but it isn't guaranteed to work
 - [No, I'm not a Human](https://store.steampowered.com/app/3180070/No_Im_not_a_Human/), PC, with [the I'm a blind human mod](https://github.com/ObjectInSpace/im-a-blind-human) - work in progress, under active development
+- [Octopath Traveler](https://store.steampowered.com/app/921570/OCTOPATH_TRAVELER/), PC, with [the OP1 Access mod](https://github.com/Timtam/op1-access/)) - work in progress
 - (Osu!](https://osu.ppy.sh), PC, with [this fork](https://osu.heavenay.com/)) - mania, tyco and catch are fully accessible, the classic mode is not accessible
 - [Outer Wilds](https://store.steampowered.com/app/753640/Outer_Wilds/), PC, with [the Outer Wilds Access mod](https://github.com/PlatinumTsuki/OuterWildsAccess/)) - work in progress, under active development
 - [Oxygen not Included](https://store.steampowered.com/app/457140/Oxygen_Not_Included/), PC, with [the ONI Access mod](https://github.com/rashadnaqeeb/OniAccess)) - fully accessible
 - [Paralives,](https://store.steampowered.com/app/1118520/Paralives/) PC, with the [ParalivesAccess mod,](https://github.com/zersiax/paralivesAccess/releases/) -work in progress, under active development
 - [Plague Inc: Evolved](https://store.steampowered.com/app/246620/Plague_Inc_Evolved/), PC, with [the Pie Access mod](https://arctic-labs.com/p/pie-access) - work in progress, under active development
 - [Pastel Parade](https://store.steampowered.com/app/2685840/PastelParade/), PC, with [this mod](https://chikutaku-luyi.itch.io/ppa11y)) - fully accessible
+- [Path of Exile](https://store.steampowered.com/app/238960/Path_of_Exile/), PC, with [the PoE1Access mod](https://github.com/Random4358/PoE1Access)) - work in progress
+- [Path of Exile 2](https://store.steampowered.com/app/2694490/Path_of_Exile_2/), PC, with [the Path of Exile 2 Access mod](https://github.com/Ali-Bueno/poe2-access)) - work in progress
 - [Persona 3 Reload](https://store.steampowered.com/app/2161700/Persona_3_Reload/), PC, with [the Arcana mod](https://github.com/ChipsAhoiMcCoy/persona-3-access/releases/tag/v0.1.0-alpha.3)) - work in progress
 - [Persona 4 Golden](https://store.steampowered.com/app/1113000/Persona_4_Golden/), PC, with [the Persona 4 Golden Access mod](https://github.com/AquaRose7/Persona-4-Golden-Access)) - work in progress, under active development
 - [Phoenix Wright: Ace Attorney Trilogy](https://store.steampowered.com/app/787480/Phoenix_Wright_Ace_Attorney_Trilogy/), PC, with [this mod](https://github.com/LordLuceus/PhoenixWrightTrilogy/)) - fully accessible
@@ -238,6 +243,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Slots and Daggers](https://store.steampowered.com/app/3631290/Slots__Daggers/), PC, with [this mod](https://forum.audiogames.net/topic/57985)) - mostly accessible
 - [Songs of Conquest](https://store.steampowered.com/app/867210/Songs_of_Conquest/), PC, with [the Songs of Conquest Access mod](https://neurrone.github.io/soc-access/intro.html)) - work in progress, under active development
 - [Soulblaze](https://store.steampowered.com/app/3505230/Soulblaze/), PC) - fully accessible
+- [Soulcalibur VI](https://store.steampowered.com/app/544750/SOULCALIBUR_VI/), PC, with [the Soul Guide mod](https://github.com/buu420/soul-guide/releases/tag/v0.1.0)) - work in progress
 - [SpaceChem](https://store.steampowered.com/app/92800/SpaceChem/), PC, with [the SpeechChem mod](https://github.com/amerikrainian/speechchem)) - work in progress
 - [Spiderman 2](https://store.steampowered.com/app/2651280/Marvels_SpiderMan_2/), PC/PS5) - mostly accessible w/audio description (requires brief sighted assistance at certain points in the game, but otherwise fully accessible)
 - [Stacklands](https://store.steampowered.com/app/1948280/Stacklands/), PC, with [the Stackland Access mod](https://github.com/kaminosekai54/StacklandAccess)) - fully accessible
@@ -273,6 +279,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [The Quarry,](https://store.steampowered.com/app/1577120/The_Quarry/) with the [Quarry Access mod,](https://github.com/futyn-maker/the_quarry_access) - work in progress (controller recommended)
 - [The Walking Dead: The Telltale Definitive Series](https://store.steampowered.com/app/1449690/The_Walking_Dead_The_Telltale_Definitive_Series/), PC, with [the TWD Access mod](https://github.com/Kongster90/TWDAccess/releases/latest/)) - fully accessible
 - [The Witcher 3: Wild Hunt](https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/), PC, with [the WitcherAccess mod](https://www.nexusmods.com/witcher3/mods/15538)) - fully accessible
+- [The Wolf Among Us Remastered](https://store.steampowered.com/app/3884860/The_Wolf_Among_Us_Remastered/), PC, with [the WolfAccess mod](https://github.com/jeremdo95/WolfAmongUsAccess)) - fully accessible
 - [Torment Hexus](https://store.steampowered.com/app/3238420/Torment_Hexus/), PC) - work in progress, under active development
 - [Ultra Street Fighter IV](https://store.steampowered.com/app/45760/Ultra_Street_Fighter_IV/), PC, with [the Fighting Chance mod](https://github.com/buu420/fighting-chance)) - work in progress
 - [Undertale](https://store.steampowered.com/app/391540/Undertale/), PC, with [this mod](https://github.com/liliancoghlan1-tech/undertale-nvda-access) - mostly accessible
