@@ -626,6 +626,9 @@
    "rating": 93,
    "ratingCount": 44260
   },
+  "games/dragon-quest-ix-sentinels-of-the-starry-skies": {
+   "added": "2026-11-23"
+  },
   "games/dragon-warrior-1": {
    "added": "2026-04-24"
   },
@@ -1446,6 +1449,9 @@
    "rating": 89,
    "ratingCount": 87610
   },
+  "games/mortal-kombat-komplete-edition": {
+   "added": "2026-11-23"
+  },
   "games/mortal-kombat-legacy-kollection": {
    "added": "2026-11-02",
    "source": "steam",
@@ -1474,6 +1480,17 @@
    "genres": [
     "Simulation"
    ]
+  },
+  "games/octopath-traveler": {
+   "added": "2026-11-23",
+   "source": "steam",
+   "released": "2019-06-07",
+   "price": 59.99,
+   "genres": [
+    "RPG"
+   ],
+   "rating": 85,
+   "ratingCount": 14184
   },
   "games/osu": {
    "added": "2026-08-25"
@@ -1519,6 +1536,33 @@
     "Action",
     "Casual"
    ]
+  },
+  "games/path-of-exile": {
+   "added": "2026-11-23",
+   "source": "steam",
+   "released": "2013-10-23",
+   "price": 0,
+   "genres": [
+    "Action",
+    "Adventure",
+    "MMO",
+    "RPG"
+   ],
+   "rating": 89,
+   "ratingCount": 251132
+  },
+  "games/path-of-exile-2": {
+   "added": "2026-11-23",
+   "source": "steam",
+   "released": "2024-12-06",
+   "genres": [
+    "Action",
+    "Adventure",
+    "MMO",
+    "RPG"
+   ],
+   "rating": 70,
+   "ratingCount": 169021
   },
   "games/persona-3-reload": {
    "added": "2026-11-21",
@@ -1939,6 +1983,17 @@
     "Strategy"
    ]
   },
+  "games/soulcalibur-vi": {
+   "added": "2026-11-23",
+   "source": "steam",
+   "released": "2018-10-18",
+   "price": 59.99,
+   "genres": [
+    "Action"
+   ],
+   "rating": 83,
+   "ratingCount": 9831
+  },
   "games/spacechem": {
    "added": "2026-11-02",
    "source": "steam",
@@ -2304,6 +2359,19 @@
    ],
    "rating": 96,
    "ratingCount": 844211
+  },
+  "games/the-wolf-among-us-remastered": {
+   "added": "2026-11-23",
+   "source": "steam",
+   "released": "2026-10-29",
+   "price": 24.99,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Casual"
+   ],
+   "rating": 92,
+   "ratingCount": 1031
   },
   "games/torment-hexus": {
    "added": "2026-08-25",
