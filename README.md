@@ -340,6 +340,7 @@ These are games that are playable, but without the developers or modders specifi
 - [Blackbox](https://apps.apple.com/us/app/blackbox/id962969578)) - fully accessible
 - [Cat Genome: Kitten Distribution System](https://apps.apple.com/app/id6782740699) - fully accessible
 - [Citizens of Rome](https://apps.apple.com/us/app/citizen-of-rome/id1469244787) - fully accessible
+- [Corner Grocer: Market Sim](https://apps.apple.com/app/id6822858444) - fully accessible
 - [Eldrum](https://eldrum.com/)): all games in the series - fully accessible
 - [Evelyn's Farm](https://apps.apple.com/us/app/evelyns-farm/id1490259856) - Fully accessible
 - [Galactic Colonies](https://apps.apple.com/us/app/galactic-colonies/id1240422237)) – fully accessible
