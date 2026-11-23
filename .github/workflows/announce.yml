@@ -1,9 +1,10 @@
 name: Announce list updates
 
 # Posts new, updated and removed entries to Discord, pinging @everyone, after
-# each push to main that changes README.md. The webhook address lives in the
-# repository secret DISCORD_WEBHOOK_URL; without it (on forks, say) the run
-# only prints what it would have sent.
+# each push to main that changes README.md. It posts to the repository secret
+# DISCORD_WEBHOOK_URL first, then to every other secret whose value is a
+# Discord webhook address, whatever that secret is called. Without any (on
+# forks, say) the run only prints what it would have sent.
 on:
   push:
     branches: [main]
@@ -30,6 +31,9 @@ jobs:
       - name: Announce
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          # Only values that are webhook addresses are used; the script never
+          # prints them, and Actions masks secrets in the log anyway.
+          REPO_SECRETS: ${{ toJSON(secrets) }}
           BEFORE: ${{ github.event.before }}
           AFTER: ${{ github.sha }}
         run: python tools/announce_update.py --before "$BEFORE" --after "$AFTER"

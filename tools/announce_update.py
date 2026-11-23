@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 """Announce changes to the list in Discord.
 
-Compares README.md between two commits and posts what changed to the Discord
-webhook in the DISCORD_WEBHOOK_URL environment variable, starting with
-@everyone:
+Compares README.md between two commits and posts what changed to every Discord
+webhook it is given, starting with @everyone:
 
   New       entries that were not in the list before
   Updated   entries whose status, title, links or text changed
@@ -17,8 +16,10 @@ Usage:
   python tools/announce_update.py --before SHA --after SHA
   python tools/announce_update.py --before SHA --after SHA --dry-run
 
-Without DISCORD_WEBHOOK_URL, or with --dry-run, the messages are printed
-instead of sent. Standard library only. Entries and their keys come from
+The webhooks are DISCORD_WEBHOOK_URL (one address, or several separated by
+spaces), then every value in REPO_SECRETS (the workflow's secrets as JSON) that
+is a webhook address, whatever its secret is called. Without any, or with
+--dry-run, the messages are printed instead of sent. Standard library only. Entries and their keys come from
 update_data.py, so a game is matched across commits exactly as the sortable
 list matches it.
 """
@@ -43,6 +44,8 @@ SUPPRESS_EMBEDS = 1 << 2  # no link previews under the message
 USER_AGENT = "DiscordBot (blind-accessible-games-list announcer, 1.0)"
 SECTION_NOTES = {"games": "", "accidental": " (accidentally accessible)", "ios": " (iOS)"}
 MOD_LINK = re.compile(r"\bwith\b[^\[\]()]{0,12}" + data.LINK.pattern, re.I)
+WEBHOOK = re.compile(
+    r"https://(?:(?:ptb|canary)\.)?discord(?:app)?\.com/api/(?:v\d+/)?webhooks/\d+/[\w-]+(?:\?\S*)?")
 
 
 # --- reading the list ---------------------------------------------------------
@@ -208,6 +211,19 @@ def pack(sections):
 
 # --- sending ------------------------------------------------------------------
 
+def webhooks():
+    """DISCORD_WEBHOOK_URL first, then any other secret holding a webhook."""
+    found = WEBHOOK.findall(os.environ.get("DISCORD_WEBHOOK_URL", ""))
+    try:
+        secrets = json.loads(os.environ.get("REPO_SECRETS") or "{}")
+    except ValueError:
+        secrets = {}
+    for value in secrets.values() if isinstance(secrets, dict) else []:
+        if isinstance(value, str) and WEBHOOK.fullmatch(value.strip()):
+            found.append(value.strip())
+    return list(dict.fromkeys(found))
+
+
 def post(webhook, content, ping):
     body = json.dumps({
         "content": content,
@@ -227,8 +243,10 @@ def post(webhook, content, ping):
                 wait = json.loads(detail or b"{}").get("retry_after", 2)
                 time.sleep(float(wait) + 0.5)
                 continue
-            raise SystemExit(f"Discord refused the message: HTTP {err.code} {detail[:300]!r}")
-    raise SystemExit("Discord kept asking to slow down; gave up.")
+            raise RuntimeError(f"Discord refused the message: HTTP {err.code} {detail[:300]!r}")
+        except urllib.error.URLError as err:
+            raise RuntimeError(f"could not reach Discord: {err.reason}")
+    raise RuntimeError("Discord kept asking to slow down; gave up.")
 
 
 def main():
@@ -247,16 +265,27 @@ def main():
         print("No entry changed; nothing announced.")
         return
 
-    webhook = os.environ.get("DISCORD_WEBHOOK_URL", "").strip()
-    if args.dry_run or not webhook:
-        if not args.dry_run:
-            print("DISCORD_WEBHOOK_URL is not set, so this was not sent:\n")
+    targets = webhooks()
+    if args.dry_run or not targets:
+        if args.dry_run:
+            print(f"Would send to {len(targets)} webhook(s):\n")
+        else:
+            print("No Discord webhook found in the secrets, so this was not sent:\n")
         print("\n\n---- next message ----\n\n".join(messages))
         return
-    for number, message in enumerate(messages):
-        post(webhook, message, ping=number == 0)
-        time.sleep(1)
-    print(f"Announced in {len(messages)} message(s).")
+    # Every webhook gets its try: one server failing does not stop the rest.
+    failed = 0
+    for number, webhook in enumerate(targets, 1):
+        try:
+            for index, message in enumerate(messages):
+                post(webhook, message, ping=index == 0)
+                time.sleep(1)
+            print(f"Webhook {number} of {len(targets)}: announced in {len(messages)} message(s).")
+        except RuntimeError as err:
+            failed += 1
+            print(f"Webhook {number} of {len(targets)}: {err}")
+    if failed:
+        sys.exit(1)
 
 
 if __name__ == "__main__":
