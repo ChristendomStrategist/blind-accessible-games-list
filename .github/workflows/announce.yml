@@ -1,0 +1,35 @@
+name: Announce list updates
+
+# Posts new, updated and removed entries to Discord, pinging @everyone, after
+# each push to main that changes README.md. The webhook address lives in the
+# repository secret DISCORD_WEBHOOK_URL; without it (on forks, say) the run
+# only prints what it would have sent.
+on:
+  push:
+    branches: [main]
+    paths: [README.md]
+
+permissions:
+  contents: read
+
+# One announcement at a time, in push order.
+concurrency:
+  group: announce
+  cancel-in-progress: false
+
+jobs:
+  announce:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Announce
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          BEFORE: ${{ github.event.before }}
+          AFTER: ${{ github.sha }}
+        run: python tools/announce_update.py --before "$BEFORE" --after "$AFTER"
