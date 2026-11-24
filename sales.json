@@ -1,5 +1,5 @@
 {
-"checked": "2026-11-22",
+"checked": "2026-11-24",
 "entries": {
 "accidental/final-fantasy-xvi": {
 "percent": 60,
@@ -17,8 +17,7 @@
 "percent": 0
 },
 "games/1428-shadows-over-silesia": {
-"percent": 85,
-"price": 2.99
+"percent": 0
 },
 "games/a-dance-of-fire-and-ice": {
 "percent": 0
@@ -131,10 +130,12 @@
 "percent": 0
 },
 "games/death-and-taxes": {
-"percent": 0
+"percent": 87,
+"price": 1.68
 },
 "games/deep-rock-galactic-survivor": {
-"percent": 0
+"percent": 50,
+"price": 6.49
 },
 "games/diablo-ii-resurrected": {
 "percent": 0
@@ -160,7 +161,8 @@
 "price": 10.49
 },
 "games/doom-doom-2-heretic-hexon": {
-"percent": 0
+"percent": 60,
+"price": 3.99
 },
 "games/dragon-ball-sparking-zero": {
 "percent": 0
@@ -188,13 +190,16 @@
 "percent": 0
 },
 "games/fallout-3": {
-"percent": 0
+"percent": 75,
+"price": 2.49
 },
 "games/fallout-4": {
-"percent": 0
+"percent": 75,
+"price": 4.99
 },
 "games/fallout-new-vegas": {
-"percent": 0
+"percent": 75,
+"price": 2.49
 },
 "games/fear-and-hunger": {
 "percent": 0
@@ -313,7 +318,8 @@
 "percent": 0
 },
 "games/injustice-2": {
-"percent": 0
+"percent": 90,
+"price": 4.99
 },
 "games/inscryption": {
 "percent": 0
@@ -331,7 +337,8 @@
 "percent": 0
 },
 "games/kingdom-two-crowns": {
-"percent": 0
+"percent": 80,
+"price": 3.99
 },
 "games/kingdoms-and-castles": {
 "percent": 0
@@ -352,7 +359,8 @@
 "percent": 0
 },
 "games/lust-theory-season-1": {
-"percent": 0
+"percent": 69,
+"price": 5.57
 },
 "games/magic-the-gathering-arena": {
 "percent": 0
@@ -384,16 +392,22 @@
 "percent": 0
 },
 "games/mortal-kombat-1": {
-"percent": 0
+"percent": 85,
+"price": 7.49
 },
 "games/mortal-kombat-11": {
-"percent": 0
+"percent": 90,
+"price": 4.99
 },
 "games/mortal-kombat-legacy-kollection": {
 "percent": 0
 },
 "games/no-i-m-not-a-human": {
 "percent": 0
+},
+"games/octopath-traveler": {
+"percent": 70,
+"price": 17.99
 },
 "games/outer-wilds": {
 "percent": 50,
@@ -407,6 +421,12 @@
 "percent": 0
 },
 "games/pastel-parade": {
+"percent": 0
+},
+"games/path-of-exile": {
+"percent": 0
+},
+"games/path-of-exile-2": {
 "percent": 0
 },
 "games/persona-3-reload": {
@@ -457,7 +477,8 @@
 "percent": 0
 },
 "games/roller-coaster-tycoon-2": {
-"percent": 0
+"percent": 75,
+"price": 2.49
 },
 "games/sally-face": {
 "percent": 0
@@ -508,6 +529,9 @@
 "percent": 0
 },
 "games/soulblaze": {
+"percent": 0
+},
+"games/soulcalibur-vi": {
 "percent": 0
 },
 "games/spacechem": {
@@ -583,7 +607,8 @@
 "percent": 0
 },
 "games/the-elder-scrolls-iii-morrowind": {
-"percent": 0
+"percent": 75,
+"price": 3.74
 },
 "games/the-last-of-us-part-i": {
 "percent": 50,
@@ -603,7 +628,8 @@
 "percent": 0
 },
 "games/the-quarry": {
-"percent": 0
+"percent": 90,
+"price": 6.99
 },
 "games/the-walking-dead-the-telltale-definitive-series": {
 "percent": 0
@@ -611,8 +637,12 @@
 "games/the-witcher-3-wild-hunt": {
 "percent": 0
 },
-"games/torment-hexus": {
+"games/the-wolf-among-us-remastered": {
 "percent": 0
+},
+"games/torment-hexus": {
+"percent": 20,
+"price": 7.99
 },
 "games/ultra-street-fighter-iv": {
 "percent": 87,
