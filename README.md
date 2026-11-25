@@ -49,6 +49,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Buckshot Roulette](https://store.steampowered.com/app/2835570/Buckshot_Roulette/), PC, with [this mod](https://arctic-labs.com/buckshot-roulette-access)) - Fully accessible
 - [Chicken Police](https://store.steampowered.com/app/1084640/Chicken_Police__Paint_it_RED/), PC, with [this mod](https://github.com/Berenion/Chicken-Police-Accessibility-Mod)) - fully accessible
 - [Citizen Sleeper](https://store.steampowered.com/app/1578650/Citizen_Sleeper/), PC, with [the Citizen Speaker mod](https://github.com/EarthboundPromoter/Citizen-Speaker)) - fully accessible
+- [Citizen Sleeper 2: Starward Vector](https://store.steampowered.com/app/2442460/Citizen_Sleeper_2_Starward_Vector/), PC, with [the Sleeptalker mod](https://github.com/EarthboundPromoter/Sleeptalker)) - work in progress
 - [Clicker Heroes](https://store.steampowered.com/app/363970/Clicker_Heroes/), PC, with [the CH Access mod](https://github.com/shotgunspoon/ch_patcher)) - mostly accessible, although the mod is a content mod on top of being an accessibility mod
 - [Coffee Talk](https://store.steampowered.com/app/914800/Coffee_Talk/), PC, with [the Coffee Talk Access mod](https://github.com/objectinspace/coffee-talk-access)) - fully accessible
 - [Conjury](https://store.steampowered.com/app/2684520/Conjury/), PC/Android/iOS) - fully accessible
@@ -144,6 +145,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Inscryption](https://store.steampowered.com/app/1092790/Inscryption/), PC, with [the IKMA mod](https://github.com/Zamar21/InscryptionAccess)) - work in progress
 - [Iron Lung](https://store.steampowered.com/app/1846170/Iron_Lung/), PC, with [this mod](https://github.com/liliancoghlan1-tech/iron-lung-accessibility)) - fully accessible
 - [Karaborsa Simülasyonu](https://muhammed-space.netlify.app/), PC) - fully accessible
+- [Killer Frequency](https://store.steampowered.com/app/1903620/Killer_Frequency/), PC, with [the Killer Frequency Access mod](https://github.com/objectinspace/killer-frequency-access/releases)) - mostly accessible
 - [Killer Instinct](https://store.steampowered.com/app/577940/Killer_Instinct/), PC, with [the Killer Instinct Accessibility mod](https://github.com/skluttrell/killer-instinct-accessibility-mod)) - work in progress
 - [Kilta](https://store.steampowered.com/app/1401560/Kilta/), PC) - fully accessible
 - [King of Dragon Pass,](https://store.steampowered.com/app/352220/King_of_Dragon_Pass/) PC, with the [Access Dragon Pass mod,](https://arctic-labs.com/access-dragon-pass) - work in progress, but already mostly accessible
@@ -237,6 +239,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Silent Hill f](https://store.steampowered.com/app/2947440/SILENT_HILL_f/), PC, with [the Uragirimono mod](https://setzaryix.github.io/arozv/shf/uragirimono/)) - mostly accessible
 - [Six Ages: Ride Like the Wind](https://store.steampowered.com/app/881420/Six_Ages_Ride_Like_the_Wind/), PC, with [this mod](https://github.com/HappyStarfish/six-ages-1-accessibility/)) - work in progress, under active development
 - [Six Ages 2: Lights Going Out](https://store.steampowered.com/app/2278010/Six_Ages_2_Lights_Going_Out/), PC, with [this mod](https://github.com/HappyStarfish/six-ages-2-accessibility/)) - work in progress, under active development
+- [SKALD: Against the Black Priory](https://store.steampowered.com/app/1069160/SKALD_Against_the_Black_Priory/), PC, with [the Beholder mod](https://github.com/EarthboundPromoter/Beholder)) - work in progress
 - [Skull Girls](https://store.steampowered.com/app/245170/Skullgirls_2nd_Encore/), PC) - fully accessible
 - [Slay the Spire](https://store.steampowered.com/app/646570/Slay_the_Spire/), PC, with [the Say the Spire mod](https://github.com/bradjrenshaw/say-the-spire)) - fully accessible
 - [Slay the Spire 2](https://store.steampowered.com/app/2868840/Slay_the_Spire_2/), PC, with [the Say the Spire 2 mod](https://github.com/bradjrenshaw/say-the-spire2)) - fully accessible
@@ -260,6 +263,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Sunlight](https://store.steampowered.com/app/1451120/Sunlight/), PC) - mostly accessible
 - [Super Auto Pets](https://store.steampowered.com/app/1714040/Super_Auto_Pets/), PC, with [the SAP Access mod](https://github.com/GreenBeanGravy/SuperAutoAccessibility)) - work in progress, under active development
 - [Super Robot Wars Y](https://store.steampowered.com/app/1909950/SUPER_ROBOT_WARS_Y/), PC, with [the SRWY Access mod](https://github.com/stephenso1120-cmyk/SRWY-Accessibility/)) - mostly accessible
+- [Super Smash Bros. Melee](https://en.wikipedia.org/wiki/Super_Smash_Bros._Melee), PC, with [the Non-Visual Melee mod](https://github.com/ohylli/non-visual-melee/releases/tag/a11y-v0.1.0)) - work in progress
 - [Tangledeep](https://store.steampowered.com/app/628770/Tangledeep/), PC, with [the Tangledeep Access mod](https://github.com/Destranis/tangledeep_access)) - work in progress, under active development
 - [TCG Card Shop Simulator Prologue](https://store.steampowered.com/app/3103840/TCG_Card_Shop_Simulator_Prologue/), PC, with [the TCG Card Shop Simulator Prologue Access mod](https://github.com/RogueEugor/TCG-Card-Shop-Simulator-Prologue-Access)) - mostly accessible
 - [Tekken 3](https://en.wikipedia.org/wiki/Tekken_3), PC, through [the free Tekken 3 PC port](https://github.com/Muqaddas12/Tekken3-PC), with [the Tekken 3 Access mod](https://github.com/BlindChallengerX/Tekken3-Access)) - mostly accessible
