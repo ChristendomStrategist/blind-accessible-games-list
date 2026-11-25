@@ -1,10 +1,13 @@
 name: Announce list updates
 
 # Posts new, updated and removed entries to Discord, pinging @everyone, after
-# each push to main that changes README.md. It posts to the repository secret
-# DISCORD_WEBHOOK_URL first, then to every other secret whose value is a
-# Discord webhook address, whatever that secret is called. Without any (on
+# each push to main that changes README.md. It posts to the repository secrets
+# DISCORD_WEBHOOK_URL, then DISCORD_WEBHOOK_URL2, and so on. Without any (on
 # forks, say) the run only prints what it would have sent.
+#
+# Each secret is named below on purpose. Handing the script every secret at
+# once (toJSON(secrets)) got the run held as "may be malicious" on 2026-11-25.
+# For another server, add a secret DISCORD_WEBHOOK_URL3 and a line for it.
 on:
   push:
     branches: [main]
@@ -31,9 +34,7 @@ jobs:
       - name: Announce
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          # Only values that are webhook addresses are used; the script never
-          # prints them, and Actions masks secrets in the log anyway.
-          REPO_SECRETS: ${{ toJSON(secrets) }}
+          DISCORD_WEBHOOK_URL2: ${{ secrets.DISCORD_WEBHOOK_URL2 }}
           BEFORE: ${{ github.event.before }}
           AFTER: ${{ github.sha }}
         run: python tools/announce_update.py --before "$BEFORE" --after "$AFTER"

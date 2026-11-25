@@ -16,10 +16,10 @@ Usage:
   python tools/announce_update.py --before SHA --after SHA
   python tools/announce_update.py --before SHA --after SHA --dry-run
 
-The webhooks are DISCORD_WEBHOOK_URL (one address, or several separated by
-spaces), then every value in REPO_SECRETS (the workflow's secrets as JSON) that
-is a webhook address, whatever its secret is called. Without any, or with
---dry-run, the messages are printed instead of sent. Standard library only. Entries and their keys come from
+The webhooks are DISCORD_WEBHOOK_URL, then DISCORD_WEBHOOK_URL2,
+DISCORD_WEBHOOK_URL3 and so on (each one address, or several separated by
+spaces). Without any, or with --dry-run, the messages are printed instead of
+sent. Standard library only. Entries and their keys come from
 update_data.py, so a game is matched across commits exactly as the sortable
 list matches it.
 """
@@ -212,15 +212,12 @@ def pack(sections):
 # --- sending ------------------------------------------------------------------
 
 def webhooks():
-    """DISCORD_WEBHOOK_URL first, then any other secret holding a webhook."""
-    found = WEBHOOK.findall(os.environ.get("DISCORD_WEBHOOK_URL", ""))
-    try:
-        secrets = json.loads(os.environ.get("REPO_SECRETS") or "{}")
-    except ValueError:
-        secrets = {}
-    for value in secrets.values() if isinstance(secrets, dict) else []:
-        if isinstance(value, str) and WEBHOOK.fullmatch(value.strip()):
-            found.append(value.strip())
+    """DISCORD_WEBHOOK_URL first, then DISCORD_WEBHOOK_URL2, 3, ... in order."""
+    names = [name for name in os.environ if re.fullmatch(r"DISCORD_WEBHOOK_URL\d*", name)]
+    names.sort(key=lambda name: int(name[len("DISCORD_WEBHOOK_URL"):] or 1))
+    found = []
+    for name in names:
+        found += WEBHOOK.findall(os.environ[name])
     return list(dict.fromkeys(found))
 
 
