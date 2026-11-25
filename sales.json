@@ -1,5 +1,5 @@
 {
-"checked": "2026-11-24",
+"checked": "2026-11-25",
 "entries": {
 "accidental/final-fantasy-xvi": {
 "percent": 60,
@@ -69,8 +69,7 @@
 "percent": 0
 },
 "games/brok-the-investigator": {
-"percent": 50,
-"price": 9.99
+"percent": 0
 },
 "games/buckshot-roulette": {
 "percent": 0
@@ -297,10 +296,12 @@
 "price": 1.49
 },
 "games/hades": {
-"percent": 0
+"percent": 75,
+"price": 6.24
 },
 "games/hades-ii": {
-"percent": 0
+"percent": 30,
+"price": 20.99
 },
 "games/hand-of-fate": {
 "percent": 0
@@ -356,7 +357,8 @@
 "percent": 0
 },
 "games/luck-be-a-landlord": {
-"percent": 0
+"percent": 26,
+"price": 7.39
 },
 "games/lust-theory-season-1": {
 "percent": 69,
