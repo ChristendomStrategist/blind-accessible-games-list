@@ -306,6 +306,18 @@
    "rating": 93,
    "ratingCount": 8105
   },
+  "games/citizen-sleeper-2-starward-vector": {
+   "added": "2026-11-25",
+   "source": "steam",
+   "released": "2025-01-31",
+   "price": 24.99,
+   "genres": [
+    "Adventure",
+    "RPG"
+   ],
+   "rating": 94,
+   "ratingCount": 1316
+  },
   "games/clicker-heroes": {
    "added": "2026-03-26",
    "source": "steam",
@@ -1190,6 +1202,18 @@
   "games/karaborsa-simulasyonu": {
    "added": "2026-11-02"
   },
+  "games/killer-frequency": {
+   "added": "2026-11-25",
+   "source": "steam",
+   "released": "2023-06-01",
+   "price": 24.99,
+   "genres": [
+    "Adventure",
+    "Simulation"
+   ],
+   "rating": 94,
+   "ratingCount": 4458
+  },
   "games/killer-instinct": {
    "added": "2026-11-02",
    "source": "steam",
@@ -1919,6 +1943,17 @@
    "rating": 82,
    "ratingCount": 447
   },
+  "games/skald-against-the-black-priory": {
+   "added": "2026-11-25",
+   "source": "steam",
+   "released": "2024-05-30",
+   "price": 14.99,
+   "genres": [
+    "RPG"
+   ],
+   "rating": 94,
+   "ratingCount": 2958
+  },
   "games/skull-girls": {
    "added": "2025-04-03",
    "source": "steam",
@@ -2164,6 +2199,9 @@
     "Simulation",
     "Strategy"
    ]
+  },
+  "games/super-smash-bros-melee": {
+   "added": "2026-11-25"
   },
   "games/tangledeep": {
    "added": "2026-05-16",
