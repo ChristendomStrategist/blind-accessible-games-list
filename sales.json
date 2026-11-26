@@ -1,5 +1,5 @@
 {
-"checked": "2026-11-25",
+"checked": "2026-11-26",
 "entries": {
 "accidental/final-fantasy-xvi": {
 "percent": 60,
@@ -81,6 +81,10 @@
 "games/citizen-sleeper": {
 "percent": 70,
 "price": 5.99
+},
+"games/citizen-sleeper-2-starward-vector": {
+"percent": 50,
+"price": 12.49
 },
 "games/clicker-heroes": {
 "percent": 0
@@ -170,7 +174,8 @@
 "percent": 0
 },
 "games/dressmaker": {
-"percent": 0
+"percent": 20,
+"price": 11.99
 },
 "games/eliza": {
 "percent": 0
@@ -326,6 +331,9 @@
 "percent": 0
 },
 "games/iron-lung": {
+"percent": 0
+},
+"games/killer-frequency": {
 "percent": 0
 },
 "games/killer-instinct": {
@@ -502,16 +510,22 @@
 "price": 5.99
 },
 "games/silence": {
-"percent": 0
+"percent": 90,
+"price": 1.99
 },
 "games/silent-hill-f": {
-"percent": 0
+"percent": 72,
+"price": 19.59
 },
 "games/six-ages-2-lights-going-out": {
 "percent": 0
 },
 "games/six-ages-ride-like-the-wind": {
 "percent": 0
+},
+"games/skald-against-the-black-priory": {
+"percent": 55,
+"price": 6.74
 },
 "games/skull-girls": {
 "percent": 0
@@ -565,7 +579,8 @@
 "percent": 0
 },
 "games/stray-gods": {
-"percent": 0
+"percent": 50,
+"price": 14.99
 },
 "games/street-fighter-6": {
 "percent": 0
@@ -662,7 +677,8 @@
 "price": 29.99
 },
 "games/vaudeville": {
-"percent": 0
+"percent": 40,
+"price": 11.99
 },
 "games/voice-of-cards-the-isle-dragon-roars": {
 "percent": 60,
@@ -700,7 +716,8 @@
 "percent": 0
 },
 "games/yu-gi-oh-legacy-of-the-duelist-link-evolution": {
-"percent": 0
+"percent": 75,
+"price": 9.99
 },
 "games/yu-gi-oh-master-duel": {
 "percent": 0
