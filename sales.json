@@ -1,5 +1,5 @@
 {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "entries": {
 "accidental/final-fantasy-xvi": {
 "percent": 60,
@@ -75,8 +75,7 @@
 "percent": 0
 },
 "games/chicken-police": {
-"percent": 75,
-"price": 4.99
+"percent": 0
 },
 "games/citizen-sleeper": {
 "percent": 70,
@@ -116,7 +115,8 @@
 "percent": 0
 },
 "games/cyber-punk-2077": {
-"percent": 0
+"percent": 70,
+"price": 17.99
 },
 "games/darkest-dungeon": {
 "percent": 85,
@@ -424,8 +424,7 @@
 "price": 12.49
 },
 "games/oxygen-not-included": {
-"percent": 70,
-"price": 7.49
+"percent": 0
 },
 "games/paralives": {
 "percent": 0
@@ -534,8 +533,7 @@
 "percent": 0
 },
 "games/slay-the-spire-2": {
-"percent": 20,
-"price": 19.99
+"percent": 0
 },
 "games/slots-and-daggers": {
 "percent": 30,
@@ -652,7 +650,8 @@
 "percent": 0
 },
 "games/the-witcher-3-wild-hunt": {
-"percent": 0
+"percent": 60,
+"price": 19.99
 },
 "games/the-wolf-among-us-remastered": {
 "percent": 0
@@ -669,8 +668,7 @@
 "percent": 0
 },
 "games/unfair-flips": {
-"percent": 50,
-"price": 0.99
+"percent": 0
 },
 "games/until-dawn": {
 "percent": 50,
