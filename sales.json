@@ -1,5 +1,5 @@
 {
-"checked": "2026-11-27",
+"checked": "2026-11-28",
 "entries": {
 "accidental/final-fantasy-xvi": {
 "percent": 60,
@@ -157,7 +157,8 @@
 "price": 9.59
 },
 "games/disco-elysium": {
-"percent": 0
+"percent": 75,
+"price": 9.99
 },
 "games/doki-doki-literature-club-plus": {
 "percent": 30,
@@ -483,7 +484,8 @@
 "percent": 0
 },
 "games/rimworld": {
-"percent": 0
+"percent": 20,
+"price": 27.99
 },
 "games/roller-coaster-tycoon-2": {
 "percent": 75,
